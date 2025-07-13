@@ -7,15 +7,16 @@
     "downloadButton": "Download",
     "loading": "Loading...",
     "errors": {
-      "emptyUrl": "Please enter a TikTok video URL",
-      "pasteFailed": "Failed to paste URL from clipboard",
-      "fetchFailed": "Failed to fetch video metadata. Please check the URL and try again.",
-      "downloadVideoFailed": "Failed to download video. The video may be unavailable or the resolution is not supported.",
-      "downloadAudioFailed": "Failed to download audio. Please try again.",
-      "invalidUrl": "Invalid TikTok URL. Please ensure it's a valid public video link.",
-      "noVideoFound": "No downloadable video found for this URL.",
-      "rateLimit": "Too many requests. Please wait a few seconds and try again."
-    },
+    "emptyUrl": "Please enter a TikTok video URL",
+    "pasteFailed": "Failed to paste URL from clipboard",
+    "fetchFailed": "Failed to fetch video metadata. Please check the URL and try again.",
+    "downloadVideoFailed": "Failed to download video. The video may be unavailable or the resolution is not supported.",
+    "downloadAudioFailed": "Failed to download audio. Please try again.",
+    "invalidUrl": "Invalid TikTok URL. Please ensure it's a valid public video link.",
+    "noVideoFound": "No downloadable video found for this URL.",
+    "rateLimit": "Too many requests. Please wait a few seconds and try again.",
+    "noThumbnailFound": "No thumbnail available for this video."
+  },
     "metadata": {
       "title": "Title",
       "author": "Author",
