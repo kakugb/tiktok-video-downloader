@@ -1,0 +1,277 @@
+{
+  "heroSection": {
+    "title": "TikTok Video İndirici",
+    "description": "TikTok İndirici, TikTok Videolarını Filigransız İndirin (TikTok MP3 ve MP4)",
+    "inputPlaceholder": "TikTok bağlantısını buraya yapıştırın",
+    "pasteButton": "Yapıştır",
+    "downloadButton": "İndir"
+  },
+  "appDownloadSection": {
+    "title": "Android için TikoSave Uygulamasını İndirin",
+    "description": "TikTok indirme uygulaması, sık kullanıyorsanız TikTok videolarını daha kolay indirmek için kullanılabilir."
+  },
+  "introductionSection": {
+    "title": "TikTokio Tanıtımı: Filigransız TikTok İndirici",
+    "paragraphs": [
+      "TikTok indirme araçları piyasada sürekli olarak ortaya çıkıyor. Ancak hepsi kullanıcı dostu değil. Bazıları yavaş indirme hızına sahipken, diğerleri ödeme gerektiriyor. Bu nedenle ekibimiz TikoSave'i geliştirdi. Bu, kullanıcıların TikTok videolarını HD kalitesinde ücretsiz olarak indirebileceği yepyeni bir TikTok indiricisidir.",
+      "TikoSave, %100 ücretsiz bir çevrimiçi TikTok video indiricisidir. Amacı, insanların TikTok videolarını (musical.ly) filigransız indirmelerine yardımcı olmaktır. İşlem 5 saniyeden kısa sürer. TikoSave indiricimizi masaüstü bilgisayarlar, tabletler, PC'ler ve cep telefonları gibi çeşitli cihazlarda bulabilirsiniz. Herkes TikTok videolarını MP4 formatında kaydedebilir ve ardından aile veya arkadaşlarla paylaşabilir.",
+      "TikoSave sadece bir TikTok MP4 indiricisi değildir. TikoSave ile insanlar TikTok videolarından ses dosyalarını (MP3) kolayca çıkarabilir. Bu, TikTok müzik, şarkı ve MP3'lerini en iyi kalitede ücretsiz indirme imkanı sunar. Telefon zil sesleri için mükemmel."
+    ]
+  },
+  "howToDownloadSection": {
+    "title": "TikTok Videolarını Filigransız Çevrimiçi Nasıl İndirilir",
+    "description": "TikoSave ile TikTok videolarını indirmek oldukça basittir. Tek ihtiyacınız, indirmek istediğiniz TikTok videosunun bağlantısıdır. TikTok indirme aracımız gerisini sizin için yapar. Daha fazla bilgi için aşağıdaki ayrıntılı adımları takip edin.",
+    "steps": [
+      {
+        "title": "Kaydetmek İstediğiniz TikTok Videosunu Bulun",
+        "description": "Cihazınızda TikTok uygulamasını açın ve indirmek istediğiniz videoyu oynatın. Video sayfasının sağ alt köşesindeki 'Paylaş' düğmesine dokunun ve 'Bağlantıyı Kopyala'yı seçin.",
+        "image": "/search.webp"
+      },
+      {
+        "title": "TikTok Video Bağlantısını Yapıştırın",
+        "description": "TikTok indirme sayfamızı ziyaret edin (https://tikosave.com). Ardından video bağlantısını üstteki giriş alanına yapıştırın. Sonra 'İndir' düğmesine tıklayın.",
+        "image": "/paste.webp"
+      },
+      {
+        "title": "Format Seçin ve İndirin",
+        "description": "İstediğiniz formatı seçin ve tercih ettiğiniz seçeneğe tıklayın. 'Filigransız İndir', 'Filigranlı İndir', 'MP3 İndir' gibi çeşitli seçenekler mevcuttur.",
+        "image": "/download.webp"
+      }
+    ]
+  },
+  "whyNeedDownloaderSection": {
+    "title": "Neden Bir TikTok İndiricisine İhtiyacınız Var",
+    "paragraphs": [
+      "TikoSave gibi bir TikTok video indiricisine ihtiyacınız olmasının birkaç nedeni vardır. Bir TikTok indiricisi, TikTok videolarını filigransız çevrimdışı indirmek, içeriği başkalarıyla kolayca paylaşmak, favori videolarınızı platformdan kaldırılma ihtimaline karşı kaydetmek ve içeriği düzenlemeyi veya yeniden karıştırmayı kolaylaştırmak için kullanışlıdır. Bu, kullanıcı deneyimini iyileştirir ve daha fazla kolaylık ve yaratıcılık sunar.",
+      "Bu TikTok indiricisi ile içerik oluşturucular, TikTok videolarını logo veya TikTok kimliği olmadan kolayca kaydedebilir ve bunları Facebook, YouTube Shorts, Instagram ve diğer sosyal platformlarda paylaşarak erişimlerini artırabilir.",
+      "Özetle, TikoSave video indiricimiz basit, hızlı ve ücretsizdir. TikTok videolarını filigransız herhangi bir cihazda indirebilir ve HD kalitesinde MP4 veya MP3 formatında kaydedebilirsiniz. Bu TikTok filigran kaldırıcı, Android ve iOS sistemlerinde (iPhone ve iPad) iyi çalıştığı test edilmiştir. Sadece kopyalayın ve yapıştırın!"
+    ]
+  },
+  "downloadOnAndroidSection": {
+    "title": "Mobil Cihazda (Android) TikTok Videolarını Filigransız Nasıl İndirilir",
+    "description": "TikoSave ile Android telefonda TikTok videolarını (MP4/MP3) indirmek oldukça basittir. Videodan filigran veya TikTok logosunu kaldırmak ve Android'de kaydetmek istiyorsanız, aşağıdaki talimatları takip edin:",
+    "steps": [
+      "Filigransız indirmek istediğiniz TikTok videosunu bulun ve oynatın",
+      "Sağdaki 'Paylaş' düğmesine tıklayın ve video bağlantısını kopyalayın",
+      "Android telefonunuzda tarayıcıyı açın ve tiktokio.com'u ziyaret edin. Video indirme bağlantısını metin kutusuna yapıştırın",
+      "Mavi 'İndir' düğmesine basın ve çeşitli seçenekler görünecektir. İstediğinizi seçin"
+    ]
+  },
+  "downloadOnPCSection": {
+    "title": "PC'de TikTok Videolarını İndirme",
+    "description": "PC veya dizüstü bilgisayarda TikTok videolarını indirme adımları, Android telefonda indirme ile benzerdir. Sadece 'Android telefon' yerine 'kişisel bilgisayar' ifadesini kullanın. TikTok filigran kaldırıcı aracımız, Windows, Linux ve Mac OS gibi çeşitli işletim sistemleriyle uyumludur."
+  },
+  "downloadOnIOSSection": {
+    "title": "iOS'ta (iPhone veya iPad) TikTok Videolarını Filigransız İndirme",
+    "paragraphs": [
+      "Ekibimiz, birçok iPhone kullanıcısının favori TikTok videolarını filigransız kaydetmek için diğer TikTok indiricilerle sorun yaşadığını fark etti.",
+      "Bu sorunu çözmek için teknolojimizi güncelledik ve TikoSave'i hem Android hem de iOS kullanıcıları için çok yönlü bir TikTok video indiricisi haline getirdik.",
+      "İşte adımlar:"
+    ],
+    "steps": [
+      "Favori TikTok videonuzun bağlantısını alın",
+      "iPhone veya iPad'inizde Safari uygulamasını kullanarak TikoSave.com'u ziyaret edin",
+      "Video bağlantısını kutuya yapıştırın ve 'İndir' düğmesine tıklayın",
+      "Formatı (MP4/MP3) seçtikten sonra indirme başlayacaktır."
+    ]
+  },
+  "downloadMP3Section": {
+    "title": "MP3 veya TikTok Müziği Nasıl İndirilir (TikTok Videosundan Ses Dosyası Çıkarma)?",
+    "paragraphs": [
+      "Birçok kişi favori TikTok videolarını MP3 formatında kaydetmenin yollarını arıyor. TikoSave ile bu artık bir sorun değil.",
+      "Aşağıdaki adımlar, TikoSave ile TikTok'tan MP3, şarkı, müzik ve ses dosyalarını birkaç saniyede indirme sürecinde size rehberlik edecektir."
+    ],
+    "steps": [
+      "Cihazınızda TT uygulamasını/web sitesini açın ve kaydetmek istediğiniz ses/müzik içeren videoyu oynatın.",
+      "Video sayfasının sağ tarafındaki 'Paylaş' düğmesine dokunun",
+      "Menü göründüğünde 'Bağlantıyı Kopyala'yı seçin. Ardından videonun URL'si panonuza kopyalanacaktır",
+      "TikoSave web sitesini (TikTok indiricimiz) ziyaret edin ve kopyalanan video bağlantısını giriş alanına yapıştırın",
+      "'İndir' düğmesine tıklayın ve çeşitli seçenekler göreceksiniz. 'MP3 İndir' seçeneği genellikle altta yer alır.",
+      "'MP3 İndir' düğmesine basın ve dönüşüm 5 saniye içinde tamamlanacaktır. İndirilen TikTok müziği veya şarkısı varsayılan indirme klasörünüzde görünecektir."
+    ]
+  },
+  "prosAndConsSection": {
+    "title": "SaveTiko'nun Artıları ve Eksileri",
+    "pros": {
+      "title": "Artılar",
+      "items": [
+        "TikTok videolarını logo veya filigran olmadan temiz bir görünüm için kaydedin.",
+        "Gizli ücretler, abonelikler veya kayıt gerekmez.",
+        "Kopyala, yapıştır ve saniyeler içinde indir – karmaşık adımlar yok.",
+        "HD kalitesinde ve orijinal çözünürlükte video indirmeyi destekler.",
+        "PC, Mac, Android ve iPhone'da herhangi bir tarayıcı ile kullanın.",
+        "%100 çevrimiçi araç, ek yazılım indirme gerekmez.",
+        "Sınırsız TikTok videosu kaydedin.",
+        "TikTok videolarını MP3 dosyalarına dönüştürün ve sadece sesi indirin.",
+        "Kişisel veri toplama yok; indirmeleriniz gizlidir."
+      ]
+    },
+    "cons": {
+      "title": "Eksiler",
+      "items": [
+        "Mobil uygulama yok; sadece web tarayıcısı üzerinden çalışır.",
+        "İndirmeleri işlemek için sabit bir internet bağlantısı gerekir.",
+        "iOS'ta dosyaları Fotoğraflar uygulamasına manuel olarak taşımak gerekebilir."
+      ]
+    }
+  },
+  "comparisonSection": {
+    "title": "TikoSave ile Diğer TikTok İndirme Araçlarının Karşılaştırması",
+    "paragraphs": [
+      "TikTok indirme web siteleri pazarı giderek daha rekabetçi hale geliyor. Birçok TikTok video indirme aracı geliştirildi. TikoSave, hızlı ve yüksek kaliteli indirmeler, kullanım kolaylığı, sınırsız dönüşümler ve farklı cihazlarda esneklik sunarak popüler bir seçenek olarak öne çıkıyor.",
+      "TikoSave Kullanmanın Diğer TikTok Video İndiricilere Göre Avantajları"
+    ],
+    "benefits": [
+      "Hızlı ve yüksek kaliteli indirmeler: TikoSave, kullanıcıların HD TikTok videolarını minimum çabayla indirmesini sağlar. İndirme/dönüşüm işlemi 5 saniyeden kısa sürer.",
+      "%100 ücretsiz: TikTok indiricimiz her zaman ücretsizdir. Kullanıcılar, Android veya iPhone'larında filigransız sınırsız TikTok videosu kaydedebilir. Gizli ücret yok.",
+      "Filigransız: Kullanıcılar, daha iyi kalite için TikTok videolarını filigransız indirebilir.",
+      "Kullanıcı dostu arayüz: Basit arayüz, TikTok videolarını indirmeyi kolay ve verimli hale getirir.",
+      "MP3/MP4 formatları: TikoSave, TikTok videolarını MP4 ve MP3 formatlarında indirmeyi destekler.",
+      "Birçok cihazla uyumlu: TikTok indiricimizi birçok cihazda (örneğin, kişisel bilgisayarlar, tabletler ve akıllı telefonlar) kullanabilirsiniz.",
+      "Virüssüz güvenli TikTok kaydedici: Kişisel bilgileriniz paylaşılmaz çünkü TikTok indiricisini kullanmak için kayıt olmanız veya giriş yapmanız gerekmez."
+    ]
+  },
+  "userReviewsSection": {
+    "title": "TikoSave Kullanıcı Yorumları – En İyi TikTok Video İndirici",
+    "reviews": [
+      {
+        "name": "John D.",
+        "flag": "https://flagcdn.com/w40/us.png",
+        "stars": "★★★★★",
+        "comment": "Birkaç TikTok indirici denedim ama TikoSave kesinlikle en hızlısı!"
+      },
+      {
+        "name": "Emma R.",
+        "flag": "https://flagcdn.com/w40/gb.png",
+        "stars": "★★★★★",
+        "comment": "TikoSave harika! Ücretsiz, hızlı ve kurulum gerektirmiyor."
+      },
+      {
+        "name": "Carlos M.",
+        "flag": "https://flagcdn.com/w40/es.png",
+        "stars": "★★★★☆",
+        "comment": "İyi çalışıyor, ama bir mobil uygulama sürümü olsa iyi olur. Yine de mükemmel!"
+      },
+      {
+        "name": "Sophia L.",
+        "flag": "https://flagcdn.com/w40/ca.png",
+        "stars": "★★★★★",
+        "comment": "Çok kullanıcı dostu ve reklam veya açılır pencere olmaması hoşuma gidiyor. 10/10!"
+      },
+      {
+        "name": "Liam K.",
+        "flag": "https://flagcdn.com/w40/au.png",
+        "stars": "★★★★☆",
+        "comment": "Hızlı ve güvenilir! Keşke çevrimdışı da çalışsa. Yine de iyi iş!"
+      },
+      {
+        "name": "Mia P.",
+        "flag": "https://flagcdn.com/w40/de.png",
+        "stars": "★★★★★",
+        "comment": "Filigransız ve hızlı indirmeler! Bunu tüm arkadaşlarıma önerdim."
+      },
+      {
+        "name": "Hiroshi T.",
+        "flag": "https://flagcdn.com/w40/jp.png",
+        "stars": "★★★★★",
+        "comment": "Japonya'da mükemmel çalışıyor! Çok yüksek kaliteli hızlı indirmeler."
+      },
+      {
+        "name": "Fatima A.",
+        "flag": "https://flagcdn.com/w40/sa.png",
+        "stars": "★★★★★",
+        "comment": "Sonunda sorunsuz çalışan bir TikTok indirici! Bayıldım!"
+      }
+    ]
+  },
+  "otherContentSection": {
+    "title": "TikTok'un Diğer İçerik Türleri Nasıl İndirilir",
+    "photoSlideshow": {
+      "title": "TikTok Fotoğrafları veya Görüntü Slayt Gösterilerini İndirme",
+      "paragraphs": [
+        "Günümüzde TikTok'ta yayınlanan içerik kısa videolarla sınırlı değil. Resmi TikTok, fotoğraf slayt gösterileri ve hikayeler gibi yeni içerik formatlarını tanıttı. Bu nedenle TikTok fotoğraflarını veya görüntü slayt gösterilerini indirme ihtiyacı ortaya çıktı.",
+        "Bu özelliği TikTok indirme web sitemize (tikosave.com) ekledik. Böylece cihazınıza filigransız TikTok fotoğraflarını ücretsiz olarak indirebilirsiniz."
+      ]
+    },
+    "stories": {
+      "title": "TikTok Hikayelerini İndirme",
+      "paragraphs": [
+        "Hikayeler, TikTok'un başka bir yeni özelliğidir. Bu, içerik oluşturucuların profillerinde en fazla 15 saniyelik videolar paylaşmasına olanak tanır. Videolar yayınlandıktan 24 saat sonra kaybolur. Birçok kişi bunları filigransız indirmenin yollarını arıyor.",
+        "Ancak bu özelliği henüz web sitemize entegre etmedik. Bu nedenle şu anda insanlar favori TikTok hikayelerini TikoSave'de indiremez. Yakında kullanıma sunulacağını söz veriyoruz."
+      ]
+    }
+  },
+  "responsibleUseSection": {
+    "title": "TikTok İndiricisini Sorumlu Kullanım İçin İpuçları",
+    "paragraphs": [
+      "TikoSave veya benzeri indiricilerle TikTok videolarını indirmek çok kullanışlıdır. Ancak bu hizmetleri sorumlu bir şekilde kullanmak önemlidir. Çevrimdışı içerik tüketirken veya paylaşırken içerik oluşturucuların haklarına saygı gösterin. Her zaman etik ve yasal standartlara uyun.",
+      "TikoSave'i sorumlu bir şekilde kullanmak için bazı ipuçları:"
+    ],
+    "tips": [
+      {
+        "title": "Telif Haklarına Saygı Gösterin",
+        "description": "TikTok videoları, içerik oluşturucuların telif haklarıyla korunur. Bu nedenle filigransız TikTok videolarını kaydetmeden önce izin alın. İndirilen videoları veya müzikleri ticari amaçlarla kullanmayın."
+      },
+      {
+        "title": "Kişisel Gelişim veya Eğitim Amaçları İçin Kullanın",
+        "description": "TikoSave ve diğer TikTok video indiricileri, kişisel gelişim veya eğitim için kullanışlıdır. Bilgilendirici içeriği çevrimdışı görüntüleme veya referans için indirebilirsiniz."
+      },
+      {
+        "title": "Kredi Verin",
+        "description": "İndirilen videoları veya sesleri diğer sosyal medya platformlarında paylaşmak isterseniz, orijinal içerik oluşturucuya kredi verin. TikTok kullanıcı adlarını belirtebilir veya profillerine bağlantı verebilirsiniz."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Sıkça Sorulan Sorular – TikoSave TikTok Video İndirici",
+    "note": "TikoSave (TikTok Video İndirici), TikTok'un bir aracı değildir ve TikTok veya ByteDance Ltd. ile herhangi bir bağlantımız yoktur. Yalnızca TikTok kullanıcılarının videoları logolar olmadan kolayca indirmesini destekliyoruz. Lütfen TikTok indirme web sitemizi kullanırken başkalarının telif haklarını ihlal etmeyin. SnapTik, TikMate veya SSSTikTok gibi sitelerle sorun yaşıyorsanız, TikoSave'i deneyin! Kullanıcıların TikTok videolarını ÜCRETSİZ indirmesini kolaylaştırmak için sürekli güncelliyoruz. Teşekkürler!",
+    "questions": [
+      "TikoSave nedir?",
+      "TikoSave güvenli bir TikTok video indiricisi midir?",
+      "TikTok videolarını filigransız nasıl indiririm?",
+      "TikoSave'i kullanmak için yazılım veya uygulama yüklemem gerekir mi?",
+      "TikTok videolarını MP4 formatında kaydedebilir miyim?",
+      "İndirmek için TikTok video bağlantısını nereden bulurum?",
+      "TikTok videolarını bilgisayara (PC veya dizüstü) nasıl indiririm?",
+      "TikoSave, TikTok sesini MP3 olarak indirmeyi destekler mi?",
+      "TikoSave, TikTok videolarını indirmek için güvenli bir araç mı?",
+      "TikTok videolarını iPhone veya iPad'e nasıl indiririm?",
+      "TikTok videolarını indirmek için ödeme yapmam gerekir mi?",
+      "Özel TikTok videolarını indirebilir miyim?",
+      "TikTok videolarını Android telefonuma nasıl kaydederim?",
+      "TikTok videolarını yüksek kalitede indirebilir miyim?",
+      "Video veya ses indirmek için TikTok hesabına ihtiyacım var mı?",
+      "TikTok videolarından filigran veya logoyu nasıl kaldırırım?"
+    ],
+    "answers": [
+      "TikoSave, ücretsiz bir çevrimiçi TikTok indiricisidir. İnsanların TikTok videolarını filigransız kaydetmesine veya TikTok videolarını birkaç tıklamayla MP3 dosyalarına dönüştürmesine yardımcı olur. Kullanım kolaylığı ve yüksek kaliteli indirmeler, onu TT hayranları arasında popüler bir TikTok kaydedici yapar.",
+      "Evet, TikoSave %100 güvenli bir TikTok video indiricisidir. Kullanıcı gizliliğini garanti altına almak için aktif bir SSL sertifikamız var.",
+      "TikoSave ile TikTok videolarını filigransız indirmek kolaydır. TikTok video bağlantısını kopyalayın, web sitemizdeki giriş alanına yapıştırın ve indirme düğmesine tıklayın. Videonuz işlenecek ve TikTok logosu olmadan kaydedilecektir. Ekstra uygulama veya kayıt gerekmez!",
+      "Hayır, TikoSave %100 çevrimiçi bir araçtır, bu nedenle herhangi bir yazılım veya uygulama yüklemeniz gerekmez. Telefon, tablet veya bilgisayarınızdaki bir web tarayıcısından doğrudan kullanabilirsiniz. Siteyi ziyaret edin, TikTok video bağlantısını yapıştırın ve videoları saniyeler içinde indirin.",
+      "Evet, TikoSave üzerinden indirilen tüm TikTok videoları otomatik olarak MP4 formatında kaydedilir ve bu format tüm cihazlar tarafından desteklenir. MP4 dosyaları yüksek kaliteli oynatma sunar ve akıllı telefonlar, dizüstü bilgisayarlar ve tabletlerde çalışır. Formatı ayrı olarak dönüştürmeniz gerekmez.",
+      "TikTok video bağlantısını almak için TikTok uygulamasını veya web sitesini açın ve indirmek istediğiniz videoyu bulun. Paylaş düğmesine dokunun ve seçeneklerden Bağlantıyı Kopyala'yı seçin. Kopyalanan bağlantıyı TikoSave'in indirme kutusuna yapıştırarak indirme işlemini başlatın.",
+      "TikoSave ile PC veya dizüstü bilgisayara TikTok videolarını indirmek kolaydır. Web tarayıcınızda TikTok'u açın, istediğiniz videonun bağlantısını kopyalayın ve TikoSave'in indirme kutusuna yapıştırın. İndirme düğmesine tıklayın, video kalitesini seçin ve indirme klasörünüze kaydedilecektir.",
+      "Evet! TikTok videosundan sadece sesi kaydetmek istiyorsanız, TikoSave bunu dönüştürmenize ve MP3 dosyası olarak indirmenize olanak tanır. TikTok video bağlantısını yapıştırın, MP3 seçeneğini seçin ve sesi çevrimdışı oynatma için ayrı olarak indirin.",
+      "Evet, TikoSave tamamen güvenli ve emniyetlidir. Kullanıcı verilerini saklamayız ve indirmeler doğrudan TikTok sunucularından yapılır. Giriş veya izin gerekmez, bu da TikTok videolarını kaydetmenin özel ve risksiz bir yoludur.",
+      "iPhone ve iPad kullanıcıları, TikoSave ile Safari veya bir dosya yönetim uygulaması üzerinden TikTok videolarını indirebilir. TikTok video bağlantısını kopyalayın, TikoSave'e yapıştırın ve dosyayı indirin. Bazı iOS sürümlerinde videolar Fotoğraflar yerine Dosyalar'a kaydedilir, bu yüzden bunları manuel olarak taşımanız gerekebilir.",
+      "Hayır, TikoSave tamamen ücretsiz bir araçtır ve sınırsız TikTok videosunu ücretsiz olarak indirebilirsiniz. Gizli ücretler, abonelikler veya hesap oluşturma ihtiyacı yoktur. Video bağlantısını yapıştırın ve hemen indirin.",
+      "Hayır, TikoSave sadece herkese açık TikTok videolarını indirmenize izin verir. TikTok hesabı özel olarak ayarlanmışsa, videolar erişilebilir veya indirilebilir değildir. Yalnızca herkese açık videolar aracımızla kaydedilebilir.",
+      "Android'de TikTok videolarını indirmek için TikTok uygulamasını açın ve kaydetmek istediğiniz videonun bağlantısını kopyalayın. Tarayıcınızda TikoSave'i ziyaret edin, bağlantıyı giriş alanına yapıştırın ve indirme düğmesine dokunun. Video filigransız olarak galerinize veya indirme klasörünüze kaydedilecektir.",
+      "Evet, TikoSave TikTok videolarını HD kalitesinde indirme sunar. Araç, videonun mevcut en yüksek çözünürlüğünü indirmenize olanak tanır. Bu, kaydedilen videoların net, keskin ve çevrimdışı izleme için mükemmel olmasını sağlar.",
+      "Hayır, TikoSave ile video indirmek için TikTok hesabına ihtiyacınız yoktur. Aracımız oturum açmadan çalışır – sadece video bağlantısını kopyalayın ve indirme işlemini başlatmak için web sitesine yapıştırın. Hızlı, basit ve tamamen sorunsuzdur.",
+      "TikoSave, bir videoyu indirdiğinizde TikTok filigranını otomatik olarak kaldırır. TikTok video bağlantısını kopyalayın, web sitemize yapıştırın ve logo veya markalama olmadan temiz bir video sürümünü indirin."
+    ]
+  },
+  "general": {
+    "saveTiktokVideo": "TikTok Videosunu Kaydet",
+    "tiktokMp3": "TikTok MP3 İndirici",
+    "appName": "Uygulamam",
+    "home": "Ana Sayfa",
+    "contactUs": "Bize Ulaşın",
+    "termsOfUse": "Kullanım Şartları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "footerText": "© 2025 Uygulamam. Tüm hakları saklıdır.",
+    "welcome": "Uygulamama Hoş Geldiniz",
+    "homeDescription": "Bu, uygulamamızın ana sayfasıdır."
+  }
+}

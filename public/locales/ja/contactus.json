@@ -1,0 +1,9 @@
+{
+  "title": "お問い合わせ",
+  "description": "質問がある場合やエラーを報告したい場合は、英語でメールをお送りください。",
+  "faq_instruction": "質問がある場合は、FAQページをご確認ください。エラーを報告する場合は、エラーメッセージやコードの詳細をメールに含めてください。",
+  "faq_link": "FAQ",
+  "email_instruction": "SaveTTのメールアドレスは",
+  "email": "support@tikosave.cc",
+  "connect_title": "私たちとつながる"
+}

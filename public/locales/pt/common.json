@@ -1,0 +1,277 @@
+{
+  "heroSection": {
+    "title": "Downloader de Vídeos do TikTok",
+    "description": "Downloader do TikTok, Descarregue Vídeos do TikTok Sem Marca d'Água (TikTok MP3 e MP4)",
+    "inputPlaceholder": "Cole aqui o link do TikTok",
+    "pasteButton": "Colar",
+    "downloadButton": "Descarregar"
+  },
+  "appDownloadSection": {
+    "title": "Descarregue a App TikoSave para Android",
+    "description": "A aplicação de descarga do TikTok está disponível para facilitar a descarga de vídeos do TikTok se a usar frequentemente."
+  },
+  "introductionSection": {
+    "title": "Apresentação do TikTokio: Downloader do TikTok Sem Marca d'Água",
+    "paragraphs": [
+      "Ferramentas de descarga do TikTok continuam a surgir no mercado. No entanto, nem todas são fáceis de usar. Algumas têm velocidades de descarga lentas, enquanto outras podem exigir pagamento. Por isso, a nossa equipa desenvolveu o TikoSave. Este é um downloader do TikTok completamente novo que permite aos utilizadores descarregar vídeos do TikTok em HD gratuitamente.",
+      "O TikoSave é um downloader de vídeos do TikTok 100% gratuito online. O seu objetivo é ajudar as pessoas a descarregar vídeos do TikTok (musical.ly) sem marca d'água. O processo demora menos de 5 segundos. Pode encontrar o nosso TikoSave em vários dispositivos, como computadores, tablets, PCs e telemóveis. Qualquer pessoa pode guardar vídeos do TikTok no formato MP4 e depois partilhá-los com a família ou amigos.",
+      "O TikoSave não é apenas um downloader de MP4 do TikTok. Com o TikoSave, as pessoas também podem extrair facilmente ficheiros áudio (MP3) de vídeos do TikTok. Isso dá-lhes a oportunidade de descarregar música, canções e MP3 do TikTok na melhor qualidade gratuitamente. Ideal para toques de telemóvel."
+    ]
+  },
+  "howToDownloadSection": {
+    "title": "Como Descarregar Vídeos do TikTok Sem Marca d'Água Online",
+    "description": "Descarregar vídeos do TikTok com o TikoSave é muito simples. Tudo o que precisa é obter o link do vídeo do TikTok que deseja descarregar. A nossa ferramenta de descarga do TikTok trata do resto. Siga as instruções detalhadas abaixo para saber mais.",
+    "steps": [
+      {
+        "title": "Encontre o Vídeo do TikTok que Deseja Guardar",
+        "description": "Abra a aplicação do TikTok no seu dispositivo e reproduza o vídeo que deseja descarregar. Toque no botão 'Partilhar' no canto inferior direito da página do vídeo e selecione 'Copiar link'.",
+        "image": "/search.webp"
+      },
+      {
+        "title": "Cole o Link do Vídeo do TikTok",
+        "description": "Visite o nosso site de descarga do TikTok (https://tikosave.com). Em seguida, cole o link do vídeo na caixa de entrada no topo. Depois, clique no botão 'Descarregar'.",
+        "image": "/paste.webp"
+      },
+      {
+        "title": "Escolha o Formato e Descarregue",
+        "description": "Escolha o formato desejado e clique na opção preferida. As opções disponíveis incluem 'Descarregar Sem Marca d'Água', 'Descarregar Com Marca d'Água', 'Descarregar MP3', entre outras.",
+        "image": "/download.webp"
+      }
+    ]
+  },
+  "whyNeedDownloaderSection": {
+    "title": "Porquê Precisar de um Downloader do TikTok",
+    "paragraphs": [
+      "Existem várias razões pelas quais precisa de um downloader de vídeos do TikTok como o TikoSave. Um downloader do TikTok é útil para descarregar vídeos do TikTok offline sem marca d'água, partilhar conteúdo facilmente com outros, guardar os seus vídeos favoritos caso sejam removidos da plataforma, e facilitar a edição e remistura de conteúdos. Isso melhora a experiência do utilizador e oferece mais conveniência e criatividade.",
+      "Com este downloader do TikTok, os criadores de conteúdo podem facilmente guardar os seus vídeos do TikTok sem logotipo ou ID do TikTok e partilhá-los no Facebook, YouTube Shorts, Instagram e outras plataformas sociais para expandir o seu alcance.",
+      "Em resumo, o nosso downloader de vídeos TikoSave é simples, rápido e gratuito. Pode descarregar vídeos do TikTok sem marca d'água em qualquer dispositivo e guardá-los em formato MP4 ou MP3 em qualidade HD. Esta ferramenta de remoção de marcas d'água do TikTok foi testada e funciona bem em sistemas Android e iOS (iPhone e iPad). Basta copiar e colar!"
+    ]
+  },
+  "downloadOnAndroidSection": {
+    "title": "Como Descarregar Vídeos do TikTok Sem Marca d'Água em Telemóvel (Android)",
+    "description": "Descarregar vídeos do TikTok (MP4/MP3) num telemóvel Android com o TikoSave é bastante simples. Se deseja remover a marca d'água ou logotipo do TikTok do vídeo e guardá-lo no Android, siga as instruções abaixo:",
+    "steps": [
+      "Encontre o vídeo do TikTok que deseja descarregar sem marca d'água e reproduza-o",
+      "Clique no botão 'Partilhar' à direita e copie o link do vídeo",
+      "Abra o navegador no seu telemóvel Android e visite tiktokio.com. Cole o link de descarga do vídeo na caixa de texto",
+      "Prima o botão azul 'Descarregar' e aparecerão várias opções. Escolha a que deseja"
+    ]
+  },
+  "downloadOnPCSection": {
+    "title": "Descarregar Vídeos do TikTok no PC",
+    "description": "Os passos para descarregar vídeos do TikTok num PC ou portátil são semelhantes aos de descarregar num telemóvel Android. Basta substituir 'telemóvel Android' por 'computador pessoal'. A nossa ferramenta de remoção de marcas d'água do TikTok é compatível com vários sistemas operativos: Windows, Linux e Mac OS."
+  },
+  "downloadOnIOSSection": {
+    "title": "Descarregar Vídeos do TikTok Sem Marca d'Água no iOS (iPhone ou iPad)",
+    "paragraphs": [
+      "A nossa equipa notou que muitos utilizadores de iPhone enfrentam problemas com outros downloaders do TikTok para guardar os seus vídeos favoritos do TikTok sem marca d'água.",
+      "Para resolver este problema, atualizámos a nossa tecnologia e tornámos o TikoSave um downloader de vídeos do TikTok versátil para utilizadores de Android e iOS.",
+      "Aqui estão os passos:"
+    ],
+    "steps": [
+      "Obtenha o link do seu vídeo favorito do TikTok",
+      "Visite TikoSave.com com a aplicação Safari no seu iPhone ou iPad",
+      "Cole o link do vídeo na caixa e clique no botão 'Descarregar'",
+      "A descarga começará após escolher o formato (MP4/MP3)."
+    ]
+  },
+  "downloadMP3Section": {
+    "title": "Como Descarregar MP3 ou Música do TikTok (Extrair Ficheiro Áudio de Vídeo do TikTok)?",
+    "paragraphs": [
+      "Muitas pessoas procuram formas de guardar os seus vídeos favoritos do TikTok em formato MP3. Com o TikoSave, isso deixou de ser um problema.",
+      "Os passos seguintes guiam-no pelo processo de descarregar MP3, canções, música e ficheiros áudio do TikTok com o TikoSave em poucos segundos."
+    ],
+    "steps": [
+      "Abra a aplicação/site do TT no seu dispositivo e reproduza o vídeo com o áudio/música que deseja guardar.",
+      "Toque no botão 'Partilhar' à direita da página do vídeo",
+      "Selecione 'Copiar link' quando o menu aparecer. Depois, o URL do vídeo será copiado para a sua área de transferência",
+      "Visite o site do TikoSave (o nosso downloader do TikTok) e cole o link do vídeo copiado na caixa de entrada",
+      "Clique no botão 'Descarregar' e verá várias opções. A opção 'Descarregar MP3' está geralmente no fundo.",
+      "Prima o botão 'Descarregar MP3' e a conversão estará concluída em 5 segundos. A música ou canção do TikTok descarregada aparecerá na sua pasta de descargas padrão."
+    ]
+  },
+  "prosAndConsSection": {
+    "title": "Prós e Contras do SaveTiko",
+    "pros": {
+      "title": "Prós",
+      "items": [
+        "Guarde vídeos do TikTok sem logotipo ou marca d'água para uma aparência limpa.",
+        "Sem custos ocultos, subscrições ou registo necessário.",
+        "Copie, cole e descarregue em segundos – sem passos complicados.",
+        "Suporta descarga de vídeos em qualidade HD e resolução original.",
+        "Use em PC, Mac, Android e iPhone com qualquer navegador.",
+        "Ferramenta 100% online, sem necessidade de descarregar software adicional.",
+        "Guarde vídeos do TikTok ilimitados.",
+        "Converta vídeos do TikTok em ficheiros MP3 e descarregue apenas o áudio.",
+        "Sem recolha de dados pessoais; as suas descargas são privadas."
+      ]
+    },
+    "cons": {
+      "title": "Contras",
+      "items": [
+        "Sem aplicação móvel; funciona apenas através de um navegador web.",
+        "Requer uma ligação à internet estável para processar descargas.",
+        "No iOS, poderá ser necessário mover ficheiros manualmente da aplicação Ficheiros para a Fotos."
+      ]
+    }
+  },
+  "comparisonSection": {
+    "title": "Comparação do TikoSave com Outras Ferramentas de Descarga do TikTok",
+    "paragraphs": [
+      "O mercado de sites de descarga do TikTok está a tornar-se cada vez mais competitivo. Muitas ferramentas de descarga de vídeos do TikTok foram desenvolvidas. O TikoSave destaca-se como uma escolha popular. Oferece descargas rápidas e de alta qualidade sem interrupções, facilidade de uso, conversões ilimitadas e versatilidade em vários dispositivos.",
+      "Vantagens de Usar o TikoSave em Comparação com Outros Downloaders de Vídeos do TikTok"
+    ],
+    "benefits": [
+      "Descargas rápidas e de alta qualidade: O TikoSave permite aos utilizadores descarregar vídeos do TikTok em HD com o mínimo de esforço. O processo de descarga/conversão demora menos de 5 segundos.",
+      "100% gratuito: O nosso downloader do TikTok é sempre gratuito para usar. Os utilizadores podem guardar vídeos do TikTok sem marca d'água ilimitadamente nos seus Android ou iPhone. Sem custos ocultos.",
+      "Sem marca d'água: Os utilizadores podem descarregar vídeos do TikTok sem marca d'água para melhor qualidade.",
+      "Interface amigável: A interface simples torna a descarga de vídeos do TikTok fácil e eficiente.",
+      "Formatos MP3/MP4: O TikoSave suporta a descarga de vídeos do TikTok em formatos MP4 e MP3.",
+      "Compatível com muitos dispositivos: Pode usar o nosso downloader do TikTok em muitos dispositivos (por exemplo, computadores pessoais, tablets e smartphones).",
+      "TikoSave seguro sem vírus: As suas informações pessoais não são partilhadas porque não precisa de se registar ou iniciar sessão para usar o downloader do TikTok."
+    ]
+  },
+  "userReviewsSection": {
+    "title": "Avaliações dos Utilizadores do TikoSave – O Melhor Downloader de Vídeos do TikTok",
+    "reviews": [
+      {
+        "name": "John D.",
+        "flag": "https://flagcdn.com/w40/us.png",
+        "stars": "★★★★★",
+        "comment": "Experimentei vários downloaders do TikTok, mas o TikoSave é de longe o mais rápido!"
+      },
+      {
+        "name": "Emma R.",
+        "flag": "https://flagcdn.com/w40/gb.png",
+        "stars": "★★★★★",
+        "comment": "O TikoSave é incrível! Gratuito, rápido e sem necessidade de instalação."
+      },
+      {
+        "name": "Carlos M.",
+        "flag": "https://flagcdn.com/w40/es.png",
+        "stars": "★★★★☆",
+        "comment": "Funciona bem, mas gostaria que houvesse uma versão de aplicação móvel. De resto, perfeito!"
+      },
+      {
+        "name": "Sophia L.",
+        "flag": "https://flagcdn.com/w40/ca.png",
+        "stars": "★★★★★",
+        "comment": "Muito fácil de usar e adoro que não haja anúncios ou pop-ups. 10/10!"
+      },
+      {
+        "name": "Liam K.",
+        "flag": "https://flagcdn.com/w40/au.png",
+        "stars": "★★★★☆",
+        "comment": "Rápido e fiável! Só queria que funcionasse offline também. Ainda assim, ótimo trabalho!"
+      },
+      {
+        "name": "Mia P.",
+        "flag": "https://flagcdn.com/w40/de.png",
+        "stars": "★★★★★",
+        "comment": "Descargas rápidas sem marca d'água! Recomendei a todos os meus amigos."
+      },
+      {
+        "name": "Hiroshi T.",
+        "flag": "https://flagcdn.com/w40/jp.png",
+        "stars": "★★★★★",
+        "comment": "Funciona perfeitamente no Japão! Descargas de alta qualidade muito rápidas."
+      },
+      {
+        "name": "Fatima A.",
+        "flag": "https://flagcdn.com/w40/sa.png",
+        "stars": "★★★★★",
+        "comment": "Finalmente um downloader do TikTok que funciona sem problemas! Adoro!"
+      }
+    ]
+  },
+  "otherContentSection": {
+    "title": "Como Descarregar Outros Tipos de Conteúdo do TikTok",
+    "photoSlideshow": {
+      "title": "Descarregar Fotos ou Apresentações de Imagens do TikTok",
+      "paragraphs": [
+        "Hoje em dia, o conteúdo publicado no TikTok não se limita a vídeos de formato curto. O TikTok oficial introduziu novos formatos de conteúdo, como apresentações de fotos e histórias. Assim, surgiu a necessidade de descarregar fotos ou apresentações de imagens do TikTok.",
+        "Adicionámos esta funcionalidade ao nosso site de descarga do TikTok (tikosave.com). Assim, pode descarregar fotos do TikTok sem marca d'água gratuitamente no seu dispositivo."
+      ]
+    },
+    "stories": {
+      "title": "Descarregar Histórias do TikTok",
+      "paragraphs": [
+        "As histórias são outra nova funcionalidade do TikTok. Permitem aos criadores partilhar vídeos de até 15 segundos no seu perfil. Os vídeos desaparecem 24 horas após a publicação. Muitas pessoas procuram formas de os descarregar sem marca d'água.",
+        "No entanto, ainda não integrámos esta funcionalidade no nosso site. Portanto, de momento, as pessoas não podem descarregar as suas histórias favoritas do TikTok no TikoSave. Prometemos que estará disponível em breve."
+      ]
+    }
+  },
+  "responsibleUseSection": {
+    "title": "Dicas para Usar um Downloader do TikTok de Forma Responsável",
+    "paragraphs": [
+      "Descarregar vídeos do TikTok com o TikoSave ou downloaders semelhantes é muito conveniente. No entanto, é importante usar estes serviços de forma responsável. Respeite os direitos dos criadores ao desfrutar ou partilhar conteúdo offline. Cumpra sempre os padrões éticos e legais.",
+      "Aqui estão algumas dicas para usar o TikoSave de forma responsável:"
+    ],
+    "tips": [
+      {
+        "title": "Respeitar os Direitos de Autor",
+        "description": "Os vídeos do TikTok são protegidos pelos direitos de autor dos criadores. Portanto, obtenha permissão antes de guardar vídeos do TikTok sem marca d'água. Não use vídeos ou música descarregados para fins comerciais sem aprovação."
+      },
+      {
+        "title": "Usar para Desenvolvimento Pessoal ou Fins Educativos",
+        "description": "O TikoSave e outros downloaders de vídeos do TikTok são úteis para desenvolvimento pessoal ou educação. Pode descarregar conteúdo informativo para reprodução offline ou referência."
+      },
+      {
+        "title": "Dar Crédito",
+        "description": "Se deseja partilhar vídeos ou áudio descarregados noutras plataformas de redes sociais, dê crédito ao criador de conteúdo original. Pode mencionar o nome de utilizador do TikTok ou incluir um link para o perfil deles."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Perguntas Frequentes – Downloader de Vídeos do TikTok TikoSave",
+    "note": "O TikoSave (Downloader de Vídeos do TikTok) não é uma ferramenta do TikTok e não temos quaisquer ligações com o TikTok ou a ByteDance Ltd. Apenas apoiamos os utilizadores do TikTok a descarregar vídeos sem logotipo facilmente. Por favor, não viole os direitos de autor de outros ao usar o nosso site de descarga do TikTok. Se tiver problemas com sites como SnapTik, TikMate ou SSSTikTok, experimente o TikoSave! Continuamos a atualizar para facilitar aos utilizadores descarregar vídeos do TikTok GRATUITAMENTE. Obrigado!",
+    "questions": [
+      "O que é o TikoSave?",
+      "O TikoSave é um downloader de vídeos do TikTok seguro?",
+      "Como descarregar vídeos do TikTok sem marca d'água?",
+      "Preciso de instalar software ou uma aplicação para usar o TikoSave?",
+      "Posso guardar vídeos do TikTok no formato MP4?",
+      "Onde posso obter o link de um vídeo do TikTok para descarregar?",
+      "Como descarregar vídeos do TikTok num computador (PC ou portátil)?",
+      "O TikoSave permite descarregar áudio do TikTok como MP3?",
+      "O TikoSave é uma ferramenta segura para descarregar vídeos do TikTok?",
+      "Como descarregar vídeos do TikTok num iPhone ou iPad?",
+      "Preciso de pagar para descarregar vídeos do TikTok?",
+      "Posso descarregar vídeos privados do TikTok?",
+      "Como guardar vídeos do TikTok num telemóvel Android?",
+      "Posso descarregar vídeos do TikTok em alta qualidade?",
+      "Preciso de uma conta do TikTok para descarregar vídeos ou áudio?",
+      "Como remover a marca d'água ou logotipo do TikTok dos vídeos?"
+    ],
+    "answers": [
+      "O TikoSave é um downloader do TikTok gratuito online. Ajuda as pessoas a guardar vídeos do TikTok sem marca d'água ou a converter vídeos do TikTok em ficheiros MP3 com alguns cliques. A facilidade de uso e as descargas de alta qualidade tornam-no um TikoSave popular entre os fãs do TT.",
+      "Sim, o TikoSave é um downloader de vídeos do TikTok 100% seguro. Temos um certificado SSL ativo para garantir a privacidade dos utilizadores.",
+      "Descarregar vídeos do TikTok sem marca d'água é fácil com o TikoSave. Basta copiar o link do vídeo do TikTok, colá-lo na caixa de entrada do nosso site e clicar no botão de descarga. O seu vídeo será processado e guardado sem o logotipo do TikTok. Não são necessárias aplicações extra ou registo!",
+      "Não, o TikoSave é uma ferramenta 100% online, por isso não precisa de instalar nenhum software ou aplicação. Pode aceder diretamente a partir de um navegador web no seu telemóvel, tablet ou computador. Visite o site, cole o link do vídeo do TikTok e descarregue vídeos em segundos.",
+      "Sim, todos os vídeos do TikTok descarregados através do TikoSave são automaticamente guardados no formato MP4, que é suportado por todos os dispositivos. Os ficheiros MP4 oferecem reprodução de alta qualidade e funcionam em smartphones, portáteis e tablets. Não precisa de converter o formato separadamente.",
+      "Para obter um link de vídeo do TikTok, abra a aplicação ou site do TikTok e encontre o vídeo que deseja descarregar. Toque no botão Partilhar e selecione Copiar link nas opções. Cole o link copiado na caixa de descarga do TikoSave para iniciar o processo de descarga.",
+      "Descarregar vídeos do TikTok num PC ou portátil com o TikoSave é simples. Abra o TikTok no seu navegador web, copie o link do vídeo desejado e cole-o na caixa de descarga do TikoSave. Clique no botão de descarga, escolha a qualidade do vídeo e será guardado na sua pasta de descargas.",
+      "Sim! Se deseja guardar apenas o áudio de um vídeo do TikTok, o TikoSave permite convertê-lo e descarregá-lo como ficheiro MP3. Basta colar o link do vídeo do TikTok, escolher a opção MP3 e descarregar o som separadamente para reprodução offline.",
+      "Sim, o TikoSave é completamente seguro e protegido para usar. Não armazenamos dados dos utilizadores e as descargas são feitas diretamente dos servidores do TikTok. Não é necessário login ou permissão, o que o torna uma forma privada e sem riscos de guardar vídeos do TikTok.",
+      "Os utilizadores de iPhone e iPad podem descarregar vídeos do TikTok com o TikoSave através do Safari ou de uma aplicação de gestão de ficheiros. Copie o link do vídeo do TikTok, cole-o no TikoSave e descarregue o ficheiro. Em algumas versões do iOS, os vídeos são guardados nos Ficheiros em vez de Fotos, por isso pode ser necessário movê-los manualmente.",
+      "Não, o TikoSave é uma ferramenta completamente gratuita e pode descarregar vídeos do TikTok ilimitadamente sem custos. Sem taxas ocultas, subscrições ou necessidade de criar uma conta. Basta colar o link do vídeo e descarregar imediatamente.",
+      "Não, o TikoSave permite apenas a descarga de vídeos públicos do TikTok. Se uma conta do TikTok estiver definida como privada, os seus vídeos não são acessíveis ou descarregáveis. Apenas vídeos disponíveis publicamente podem ser guardados com a nossa ferramenta.",
+      "Para descarregar vídeos do TikTok num Android, abra a aplicação do TikTok e copie o link do vídeo que deseja guardar. Visite o TikoSave no seu navegador, cole o link na caixa de entrada e toque no botão de descarga. O vídeo será guardado sem marca d'água na sua galeria ou pasta de descargas.",
+      "Sim, o TikoSave oferece descargas de vídeos do TikTok em qualidade HD. A ferramenta permite descarregar vídeos na mais alta resolução disponível. Isso garante que os vídeos guardados sejam claros, nítidos e perfeitos para visualização offline.",
+      "Não, não precisa de uma conta do TikTok para descarregar vídeos com o TikoSave. A nossa ferramenta funciona sem login – basta copiar o link do vídeo e colá-lo no site para iniciar a descarga. É rápido, simples e completamente sem complicações.",
+      "O TikoSave remove automaticamente a marca d'água do TikTok quando descarrega um vídeo. Basta copiar o link do vídeo do TikTok, colá-lo no nosso site e descarregar uma versão limpa do vídeo sem logotipo ou branding."
+    ]
+  },
+  "general": {
+    "saveTiktokVideo": "Guardar Vídeo do TikTok",
+    "tiktokMp3": "Downloader de MP3 do TikTok",
+    "appName": "A Minha App",
+    "home": "Início",
+    "contactUs": "Contacte-nos",
+    "termsOfUse": "Termos de Utilização",
+    "privacyPolicy": "Política de Privacidade",
+    "footerText": "© 2025 A Minha App. Todos os direitos reservados.",
+    "welcome": "Bem-vindo à Minha App",
+    "homeDescription": "Esta é a página inicial da nossa aplicação."
+  }
+}

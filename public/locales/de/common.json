@@ -1,0 +1,277 @@
+{
+  "heroSection": {
+    "title": "TikTok Video Downloader",
+    "description": "TikTok Downloader, TikTok-Videos ohne Wasserzeichen herunterladen (TikTok MP3 & MP4)",
+    "inputPlaceholder": "TikTok-Link hier einfügen",
+    "pasteButton": "Einfügen",
+    "downloadButton": "Herunterladen"
+  },
+  "appDownloadSection": {
+    "title": "TikoSave-App für Android herunterladen",
+    "description": "Die TikTok-Downloader-App ist verfügbar, um TikTok-Videos bequemer herunterzuladen, wenn Sie sie häufig verwenden."
+  },
+  "introductionSection": {
+    "title": "Einführung in TikTokio: TikTok Downloader ohne Wasserzeichen",
+    "paragraphs": [
+      "TikTok-Downloader-Tools tauchen auf dem Markt immer wieder auf. Aber nicht alle sind gut zu verwenden. Einige haben eine langsame Download-Geschwindigkeit, während andere möglicherweise eine Bezahlung verlangen. Deshalb hat unser Team TikoSave entwickelt. Es ist ein brandneuer TikTok-Downloader, der es Nutzern ermöglicht, Videos in HD von TikTok ohne Zahlung herunterzuladen.",
+      "TikoSave ist ein 100% kostenloser Online-TikTok-Video-Downloader. Er zielt darauf ab, Menschen zu helfen, TikTok-Videos (Musik) ohne Wasserzeichen herunterzuladen. Der Vorgang dauert weniger als 5 Sekunden. Sie können unseren TikTok-Speicher auf allen Arten von Geräten finden, wie Desktops, Tablets, PCs und Mobiltelefonen. Jeder kann die TikTok-Videos im MP4-Format speichern und sie dann mit Familie oder Freunden teilen.",
+      "TikoSave ist nicht nur ein TikTok-MP4-Downloader. Mit TikoSave können Menschen auch Audiodateien (MP3) aus TikTok-Videos mühelos extrahieren. Dies gibt ihnen die Möglichkeit, TikTok-MP3, Musik und Lieder in bester Qualität frei herunterzuladen. Gut für Telefonklingeltöne."
+    ]
+  },
+  "howToDownloadSection": {
+    "title": "Wie man TikTok-Videos ohne Wasserzeichen online herunterlädt",
+    "description": "Das Herunterladen von TikTok-Videos mit TikoSave ist sehr einfach. Alles, was Sie brauchen, ist der Link des TikTok-Videos, das Sie herunterladen möchten. Unser TikTok-Downloader-Tool erledigt den Rest für Sie. Um die detaillierten Schritte herauszufinden, folgen Sie bitte den Anweisungen unten.",
+    "steps": [
+      {
+        "title": "Finden Sie das TikTok-Video, das gespeichert werden soll",
+        "description": "Öffnen Sie die TikTok-App auf Ihrem Gerät und spielen Sie das Video ab, das Sie herunterladen möchten. Tippen Sie auf die Schaltfläche „Teilen“ unten rechts auf der Videoseite und wählen Sie „Link kopieren“.",
+        "image": "/search.webp"
+      },
+      {
+        "title": "TikTok-Video-Link einfügen",
+        "description": "Besuchen Sie unsere TikTok-Downloader-Seite (https://tikosave.com). Fügen Sie dann den Videolink in das Eingabefeld oben ein. Klicken Sie danach auf die Schaltfläche „Herunterladen“.",
+        "image": "/paste.webp"
+      },
+      {
+        "title": "Format wählen und herunterladen",
+        "description": "Wählen Sie das gewünschte Format und klicken Sie auf die bevorzugte Option. Es stehen mehrere Optionen zur Verfügung: „Ohne Wasserzeichen herunterladen“, „Mit Wasserzeichen herunterladen“, „MP3 herunterladen“, usw.",
+        "image": "/download.webp"
+      }
+    ]
+  },
+  "whyNeedDownloaderSection": {
+    "title": "Warum Sie einen TikTok-Downloader benötigen",
+    "paragraphs": [
+      "Es gibt mehrere Gründe, warum Sie einen TikTok-(Video-)Downloader wie TikoSave benötigen. Ein TikTok-Downloader ist nützlich, um TikTok-Videos ohne Wasserzeichen offline herunterzuladen, Inhalte einfach mit anderen zu teilen, Ihre Lieblingsvideos zu speichern, falls die Videos von der Plattform gelöscht werden, und die weitere Bearbeitung und Remixierung von Inhalten zu erleichtern. Er verbessert die Benutzererfahrung und ermöglicht mehr Komfort und Kreativität.",
+      "Mit diesem TikTok-Downloader können Content-Creator ihre TikTok-Videos ohne das TikTok-Logo oder die ID einfach speichern und auf Facebook, YouTube Shorts, Instagram und anderen sozialen Plattformen teilen, um ihre Reichweite zu erweitern.",
+      "Insgesamt ist unser TikoSave-Video-Downloader einfach, schnell und kostenlos zu verwenden. Sie können TikTok-Videos ohne Wasserzeichen auf jedes gewünschte Gerät herunterladen und sie in MP4- oder MP3-Formaten in HD-Qualität speichern. Es wurde getestet, dass dieser TikTok-Wasserzeichen-Entferner sowohl auf Android- als auch auf iOS-Systemen (iPhones und iPads) gut funktioniert. Einfach kopieren und einfügen!"
+    ]
+  },
+  "downloadOnAndroidSection": {
+    "title": "Wie man TikTok-Videos ohne Wasserzeichen auf Mobiltelefonen (Android) herunterlädt",
+    "description": "Es ist ganz einfach, TikTok-Videos (MP4/MP3) auf Android-Telefone mit TikoSave herunterzuladen. Wenn Sie das TikTok-Wasserzeichen oder Logo der Videos entfernen und sie auf Android speichern möchten, folgen Sie den Anweisungen unten:",
+    "steps": [
+      "Finden Sie das TikTok-Video, das Sie ohne Wasserzeichen herunterladen möchten, und spielen Sie es ab",
+      "Klicken Sie auf die Schaltfläche „Teilen“ auf der rechten Seite und kopieren Sie den Link des Videos",
+      "Öffnen Sie den Browser auf Ihrem Android-Telefon und gehen Sie zu tiktokio.com. Fügen Sie den Video-Download-Link in das Textfeld ein",
+      "Drücken Sie die blaue Schaltfläche „Herunterladen“ und eine Reihe von Optionen wird angezeigt. Wählen Sie die gewünschte aus"
+    ]
+  },
+  "downloadOnPCSection": {
+    "title": "TikTok-Video-Download auf PCs",
+    "description": "Die Schritte zum Herunterladen von TikTok-Videos auf PCs oder Laptops sind ähnlich wie das Herunterladen auf Android-Telefone. Ersetzen Sie einfach „Android-Telefone“ durch „Persönliche Computer“. Unser TikTok-Wasserzeichen-Entferner ist mit verschiedenen Betriebssystemen kompatibel: Windows, Linux und Mac OS."
+  },
+  "downloadOnIOSSection": {
+    "title": "TikTok-Video ohne Wasserzeichen auf iOS (iPhones oder iPads) herunterladen",
+    "paragraphs": [
+      "Unser Team hat festgestellt, dass viele iPhone-Nutzer Probleme mit anderen TikTok-Downloadern haben könnten, um ihre Lieblings-TikTok-Videos ohne Wasserzeichen zu speichern.",
+      "Um dieses Problem zu lösen, haben wir unsere Technologie verbessert und TikoSave zu einem vielseitigen TikTok-Video-Downloader für Android- und iOS-Nutzer gemacht.",
+      "Hier sind die Schritte:"
+    ],
+    "steps": [
+      "Holen Sie sich den Link Ihrer Lieblings-TikTok-Videos",
+      "Gehen Sie mit Ihrer Safari-Anwendung auf Ihrem iPhone oder iPad zu TikoSave.com",
+      "Fügen Sie den Videolink in das Feld ein und klicken Sie auf die Schaltfläche „Herunterladen“",
+      "Der Download beginnt nach der Auswahl eines Formats (MP4/MP3)."
+    ]
+  },
+  "downloadMP3Section": {
+    "title": "Wie man TikTok MP3 oder Musik herunterlädt (Audiodateien aus TikTok-Videos extrahieren)?",
+    "paragraphs": [
+      "Viele Menschen suchen nach Methoden, um ihre Lieblings-TikTok-Videos im MP3-Format zu speichern. Mit TikoSave ist das kein Problem mehr.",
+      "Die folgenden Schritte führen Sie an, wie Sie TikTok MP3, Lieder, Musik und Audiodateien mit TikoSave in wenigen Sekunden herunterladen können."
+    ],
+    "steps": [
+      "Öffnen Sie die TT-Anwendung/Website auf Ihrem Gerät und spielen Sie das Video mit dem Audio/Musik ab, das Sie speichern möchten.",
+      "Tippen Sie auf die Schaltfläche „Teilen“ auf der rechten Seite der Videoseite",
+      "Wählen Sie „Link kopieren“, nachdem ein Menü angezeigt wird. Danach wird die Video-URL in Ihre Zwischenablage kopiert",
+      "Gehen Sie zur TikoSave-Website (unser TikTok-Downloader) und fügen Sie den kopierten Videolink in das Eingabefeld ein",
+      "Klicken Sie auf die Schaltfläche „Herunterladen“ und Sie sehen eine Reihe von Optionen. Die Option „MP3 herunterladen“ befindet sich normalerweise am Ende.",
+      "Drücken Sie die Schaltfläche „MP3 herunterladen“ und die Konvertierung wird in 5 Sekunden abgeschlossen sein. Sie sehen die heruntergeladene TikTok-Musik oder Lieder im standardmäßigen Download-Ordner."
+    ]
+  },
+  "prosAndConsSection": {
+    "title": "Vor- und Nachteile von SaveTiko",
+    "pros": {
+      "title": "Vorteile",
+      "items": [
+        "TikTok-Videos ohne Logo oder Wasserzeichen speichern für ein sauberes Erscheinungsbild.",
+        "Keine versteckten Gebühren, Abonnements oder Anmeldungen erforderlich.",
+        "Einfach kopieren, einfügen und in Sekunden herunterladen – keine komplizierten Schritte.",
+        "Unterstützt HD- und Originalauflösungsvideo-Downloads.",
+        "Verwendung auf PC, Mac, Android und iPhones mit jedem Browser.",
+        "100% Online-Tool, kein Download zusätzlicher Software erforderlich.",
+        "Unbegrenztes Speichern von TikTok-Videos ohne Einschränkungen.",
+        "TikTok-Videos in MP3-Dateien konvertieren und nur den Ton herunterladen.",
+        "Keine Sammlung persönlicher Daten; Ihre Downloads sind privat."
+      ]
+    },
+    "cons": {
+      "title": "Nachteile",
+      "items": [
+        "Hat keine mobile App; funktioniert nur über Webbrowser.",
+        "Erfordert eine stabile Internetverbindung, um Downloads zu verarbeiten.",
+        "Auf iOS müssen Sie die Datei möglicherweise manuell von der Dateien-App in die Fotos-App verschieben."
+      ]
+    }
+  },
+  "comparisonSection": {
+    "title": "Vergleich von TikoSave mit anderen TikTok-Downloader-Tools",
+    "paragraphs": [
+      "Der Markt für TikTok-Downloader-Websites ist zunehmend wettbewerbsintensiv geworden. Viele TikTok-Video-Downloader-Tools wurden entwickelt. TikoSave sticht jedoch als beliebte Wahl hervor. Es bietet schnelle und qualitativ hochwertige Downloads ohne Unterbrechung, Benutzerfreundlichkeit, unbegrenzte Konvertierungen und Vielseitigkeit auf mehreren Geräten.",
+      "Vorteile der Nutzung von TikoSave gegenüber anderen TikTok-Video-Downloadern"
+    ],
+    "benefits": [
+      "Schnelle und qualitativ hochwertige Downloads: TikoSave ermöglicht Nutzern, HD-TikTok-Videos mit wenig Aufwand herunterzuladen. Der Download-/Konvertierungsprozess dauert weniger als 5 Sekunden.",
+      "100% kostenlos: Unser TikTok-Downloader ist immer kostenlos zu verwenden. Nutzer können unbegrenzt TikTok-Videos ohne Wasserzeichen auf ihren Android- oder iPhones speichern. Keine versteckten Kosten.",
+      "Kein Wasserzeichen: Nutzer können das TikTok-Video ohne Wasserzeichen für bessere Qualität herunterladen.",
+      "Benutzerfreundliche Oberfläche: Die einfache Oberfläche macht das Herunterladen von Videos von TikTok einfach und effizient.",
+      "MP3/MP4-Formate: TikoSave unterstützt den Dienst zum Herunterladen von TikTok-Videos in MP4- und MP3-Formaten.",
+      "Kompatibel mit vielen Geräten: Sie können auf unseren TikTok-Downloader mit vielen Geräten zugreifen (z.B. Personalcomputer, Tablets und Smartphones).",
+      "Sicherer TikTok-Speicher ohne Viren: Ihre persönlichen Informationen werden nicht offengelegt, da Sie sich nicht registrieren oder anmelden müssen, um den TikTok-Downloader zu verwenden."
+    ]
+  },
+  "userReviewsSection": {
+    "title": "Nutzerbewertungen für TikoSave – Der beste TikTok-Video-Downloader",
+    "reviews": [
+      {
+        "name": "John D.",
+        "flag": "https://flagcdn.com/w40/us.png",
+        "stars": "★★★★★",
+        "comment": "Ich habe mehrere TikTok-Downloader ausprobiert, aber TikoSave ist bei weitem der schnellste!"
+      },
+      {
+        "name": "Emma R.",
+        "flag": "https://flagcdn.com/w40/gb.png",
+        "stars": "★★★★★",
+        "comment": "TikoSave ist erstaunlich! Es ist kostenlos, schnell und erfordert keine Installationen."
+      },
+      {
+        "name": "Carlos M.",
+        "flag": "https://flagcdn.com/w40/es.png",
+        "stars": "★★★★☆",
+        "comment": "Es funktioniert gut, aber ich wünschte, es gäbe eine mobile App-Version. Ansonsten ist es perfekt!"
+      },
+      {
+        "name": "Sophia L.",
+        "flag": "https://flagcdn.com/w40/ca.png",
+        "stars": "★★★★★",
+        "comment": "Sehr einfach zu bedienen, und ich liebe, dass es keine Werbung oder Pop-ups gibt. 10/10!"
+      },
+      {
+        "name": "Liam K.",
+        "flag": "https://flagcdn.com/w40/au.png",
+        "stars": "★★★★☆",
+        "comment": "Schnell und zuverlässig! Ich wünschte nur, es würde auch offline funktionieren. Trotzdem, tolle Arbeit!"
+      },
+      {
+        "name": "Mia P.",
+        "flag": "https://flagcdn.com/w40/de.png",
+        "stars": "★★★★★",
+        "comment": "Kein Wasserzeichen und schnelle Downloads! Ich habe dies allen meinen Freunden empfohlen."
+      },
+      {
+        "name": "Hiroshi T.",
+        "flag": "https://flagcdn.com/w40/jp.png",
+        "stars": "★★★★★",
+        "comment": "Funktioniert perfekt in Japan! Sehr schnelle Downloads mit hoher Qualität."
+      },
+      {
+        "name": "Fatima A.",
+        "flag": "https://flagcdn.com/w40/sa.png",
+        "stars": "★★★★★",
+        "comment": "Endlich ein TikTok-Downloader, der ohne Probleme funktioniert! Ich liebe es!"
+      }
+    ]
+  },
+  "otherContentSection": {
+    "title": "Wie man andere Arten von TikTok-Inhalten herunterlädt",
+    "photoSlideshow": {
+      "title": "TikTok-Fotos oder Bild-Diashows herunterladen",
+      "paragraphs": [
+        "Heutzutage beschränkt sich der auf TikTok veröffentlichte Inhalt nicht auf Kurzvideos. Das offizielle TikTok hat neue Inhaltsformen wie Foto-Diashows und Stories eingeführt. Daher ist ein Bedarf entstanden, TikTok-Fotos oder Bild-Diashows herunterzuladen.",
+        "Wir haben diese Funktion zu unserer TikTok-Downloader-Website (tikosave.com) hinzugefügt. So können Sie TikTok-Fotos ohne Wasserzeichen frei auf Ihre Geräte herunterladen."
+      ]
+    },
+    "stories": {
+      "title": "TikTok-Stories herunterladen",
+      "paragraphs": [
+        "Stories ist eine weitere neue TikTok-Funktion. Sie ermöglicht es Erstellern, ein Video von bis zu 15 Sekunden auf ihren Profilen zu teilen. Das Video verschwindet nach 24 Stunden ab dem Zeitpunkt der Veröffentlichung. Viele Menschen suchen nach Methoden, um sie ohne Wasserzeichen herunterzuladen.",
+        "Wir haben diese Funktion jedoch noch nicht in unsere Website integriert. Daher können Menschen derzeit ihre Lieblings-TikTok-Stories auf TikoSave nicht herunterladen. Wir versprechen, dass sie bald kommt."
+      ]
+    }
+  },
+  "responsibleUseSection": {
+    "title": "Tipps für die verantwortungsvolle Nutzung des TikTok-Downloaders",
+    "paragraphs": [
+      "Das Herunterladen von TikTok-Videos mit TikoSave oder ähnlichen Downloadern ist praktisch. Aber es ist wichtig, diesen Dienst verantwortungsvoll zu nutzen. Respektieren Sie die Rechte der Ersteller, wenn Sie Inhalte offline genießen oder teilen. Halten Sie sich immer an ethische und rechtliche Standards.",
+      "Hier sind einige Tipps für die verantwortungsvolle Nutzung von TikoSave:"
+    ],
+    "tips": [
+      {
+        "title": "Urheberrechte respektieren",
+        "description": "TikTok-Videos sind urheberrechtlich durch ihre Ersteller geschützt. Stellen Sie also sicher, dass Sie eine Erlaubnis einholen, bevor Sie TikTok-Videos ohne Wasserzeichen speichern. Verwenden Sie die heruntergeladenen Videos oder Musik nicht ohne Zustimmung für kommerzielle Zwecke."
+      },
+      {
+        "title": "Für persönliche Entwicklung oder Bildungszwecke verwenden",
+        "description": "TikoSave und andere TikTok-Video-Downloader sind nützlich für persönliche Entwicklung oder Bildung. Sie können informative Inhalte für die Offline-Wiedergabe oder als Referenz herunterladen."
+      },
+      {
+        "title": "Anerkennung geben",
+        "description": "Wenn Sie die heruntergeladenen Videos oder Audios auf anderen Social-Media-Plattformen teilen möchten, geben Sie dem ursprünglichen Inhaltsersteller Anerkennung. Sie können ihren TikTok-Benutzernamen erwähnen oder auf ihr Profil verlinken."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "FAQs – TikoSave TikTok Video Downloader",
+    "note": "TikoSave (TikTok Video Downloader) ist kein Tool von TikTok und wir haben keine Beziehung zu TikTok oder ByteDance Ltd. Wir unterstützen nur TikTok-Nutzer dabei, Videos auf TikTok ohne Logo einfach herunterzuladen. Bitte16: Bitte verletzen Sie beim Verwenden der TikTok-Downloader-Website keine Urheberrechte anderer. Wenn Sie Probleme mit Websites wie SnapTik, TikMate oder SSSTikTok haben, probieren Sie TikoSave aus! Wir aktualisieren ständig, um es Nutzern zu erleichtern, TikTok-Videos KOSTENLOS herunterzuladen. Vielen Dank!",
+    "questions": [
+      "Was ist TikoSave?",
+      "Ist TikoSave ein sicherer TikTok-Video-Downloader?",
+      "Wie kann ich TikTok-Videos ohne Wasserzeichen herunterladen?",
+      "Muss ich Software oder eine App installieren, um TikoSave zu nutzen?",
+      "Kann ich TikTok-Videos im MP4-Format speichern?",
+      "Wo finde ich den TikTok-Video-Link zum Herunterladen?",
+      "Wie lade ich TikTok-Videos auf meinen Computer (PC oder Laptop) herunter?",
+      "Erlaubt TikoSave das Herunterladen von TikTok-Audio als MP3?",
+      "Ist TikoSave ein sicheres Tool zum Herunterladen von TikTok-Videos?",
+      "Wie kann ich TikTok-Videos auf iPhone oder iPad herunterladen?",
+      "Muss ich für das Herunterladen von TikTok-Videos bezahlen?",
+      "Kann ich private TikTok-Videos herunterladen?",
+      "Wie speichere ich TikTok-Videos auf meinem Android-Telefon?",
+      "Kann ich TikTok-Videos in hoher Qualität herunterladen?",
+      "Brauche ich ein TikTok-Konto, um Videos oder Audio herunterzuladen?",
+      "Wie entferne ich das TikTok-Wasserzeichen oder Logo aus einem Video?"
+    ],
+    "answers": [
+      "TikoSave ist ein kostenloser Online-TikTok-Downloader. Er hilft Menschen, TikTok-Videos ohne Wasserzeichen zu speichern oder TikTok-Videos mit wenigen Klicks in MP3-Dateien zu konvertieren. Seine Benutzerfreundlichkeit und qualitativ hochwertigen Downloads machen ihn zu einem beliebten TikTok-Speicher unter TT-Enthusiasten.",
+      "Ja, TikoSave ist ein 100% sicherer TikTok-Video-Downloader. Wir haben ein aktives SSL-Zertifikat, um die Privatsphäre der Nutzer zu gewährleisten.",
+      "Das Herunterladen von TikTok-Videos ohne Wasserzeichen ist mit TikoSave einfach. Kopieren Sie einfach den Videolink von TikTok, fügen Sie ihn in das Eingabefeld auf unserer Website ein und klicken Sie auf die Download-Schaltfläche. Ihr Video wird verarbeitet und ohne das TikTok-Logo gespeichert. Keine zusätzlichen Apps oder Anmeldungen erforderlich!",
+      "Nein, TikoSave ist ein 100% Online-Tool, daher müssen Sie keine Software oder App installieren. Sie können direkt über Ihren Webbrowser auf Ihrem Telefon, Tablet oder Computer darauf zugreifen. Besuchen Sie einfach die Website, fügen Sie den TikTok-Videolink ein und laden Sie das Video in Sekunden herunter.",
+      "Ja, alle über TikoSave heruntergeladenen TikTok-Videos werden automatisch im MP4-Format gespeichert, das von allen Geräten unterstützt wird. MP4-Dateien bieten eine qualitativ hochwertige Wiedergabe und funktionieren auf Smartphones, Laptops und Tablets. Sie müssen das Format nicht separat konvertieren.",
+      "Um den TikTok-Videolink zu erhalten, öffnen Sie die TikTok-App oder Website und suchen Sie das Video, das Sie herunterladen möchten. Tippen Sie auf die Schaltfläche Teilen und wählen Sie dann Kopieren aus den Optionen. Sobald kopiert, fügen Sie es in das Download-Feld von TikoSave ein, um den Download-Vorgang zu starten.",
+      "Das Herunterladen von TikTok-Videos auf einen PC oder Laptop ist mit TikoSave einfach. Öffnen Sie TikTok in Ihrem Webbrowser, kopieren Sie den Link zum gewünschten Video und fügen Sie ihn in das Download-Feld von TikoSave ein. Klicken Sie auf die Download-Schaltfläche, wählen Sie die Videoqualität aus, und es wird in Ihrem Download-Ordner gespeichert.",
+      "Ja! Wenn Sie nur das Audio aus einem TikTok-Video speichern möchten, ermöglicht TikoSave Ihnen, es zu konvertieren und als MP3-Datei herunterzuladen. Fügen Sie einfach den TikTok-Videolink ein, wählen Sie die MP3-Option und laden Sie den Ton separat für die Offline-Wiedergabe herunter.",
+      "Ja, TikoSave ist völlig sicher und geschützt zu verwenden. Wir speichern keine Nutzerdaten, und Downloads erfolgen direkt von TikToks Servern. Es ist kein Login oder Berechtigungen erforderlich, was es zu einer privaten und risikofreien Möglichkeit macht, TikTok-Videos zu speichern.",
+      "iPhone- und iPad-Nutzer können TikTok-Videos mit TikoSave über Safari oder eine Dateimanager-App herunterladen. Kopieren Sie den TikTok-Videolink, fügen Sie ihn in TikoSave ein und laden Sie die Datei herunter. In einigen iOS-Versionen wird das Video in Dateien statt in Fotos gespeichert, sodass Sie es möglicherweise manuell verschieben müssen.",
+      "Nein, TikoSave ist ein völlig kostenloses Tool, und Sie können unbegrenzt TikTok-Videos ohne Kosten herunterladen. Es gibt keine versteckten Gebühren, keine Abonnements und keinen Bedarf, ein Konto zu erstellen. Fügen Sie einfach den Videolink ein und laden Sie ihn sofort herunter.",
+      "Nein, TikoSave erlaubt nur das Herunterladen von öffentlichen TikTok-Videos. Wenn ein TikTok-Konto auf privat eingestellt ist, können seine Videos nicht abgerufen oder heruntergeladen werden. Nur Videos, die öffentlich verfügbar sind, können mit unserem Tool gespeichert werden.",
+      "Um TikTok-Videos auf Android herunterzuladen, öffnen Sie die TikTok-App und kopieren Sie den Link des Videos, das Sie speichern möchten. Besuchen Sie TikoSave in Ihrem Browser, fügen Sie den Link in das Eingabefeld ein und tippen Sie auf die Download-Schaltfläche. Das Video wird ohne Wasserzeichen in Ihrer Galerie oder im Download-Ordner gespeichert.",
+      "Ja, TikoSave bietet HD-Qualitäts-TikTok-Video-Downloads. Das Tool ermöglicht es Ihnen, die bestmögliche Auflösung des Videos herunterzuladen. Dies stellt sicher, dass die gespeicherten Videos klar, scharf und perfekt für die Offline-Ansicht sind.",
+      "Nein, Sie benötigen kein TikTok-Konto, um Videos mit TikoSave herunterzuladen. Unser Tool funktioniert ohne Anmeldung – kopieren Sie einfach den Videolink und fügen Sie ihn in die Website ein, um den Download zu starten. Das macht es schnell, einfach und völlig problemlos.",
+      "TikoSave entfernt automatisch das TikTok-Wasserzeichen, wenn Sie ein Video herunterladen. Kopieren Sie einfach den TikTok-Videolink, fügen Sie ihn auf unserer Website ein und laden Sie eine saubere Version des Videos ohne Logos oder Branding herunter."
+    ]
+  },
+  "general": {
+    "saveTiktokVideo": "TikTok-Video speichern",
+    "tiktokMp3": "TikTok MP3 Downloader",
+    "appName": "Meine App",
+    "home": "Startseite",
+    "contactUs": "Kontaktieren Sie uns",
+    "termsOfUse": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "footerText": "© 2025 Meine App. Alle Rechte vorbehalten.",
+    "welcome": "Willkommen bei Meine App",
+    "homeDescription": "Dies ist die Startseite unserer Anwendung."
+  }
+}
