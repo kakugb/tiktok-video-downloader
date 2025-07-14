@@ -1,9 +1,9 @@
 {
   "title": "Contactez-nous",
-  "description": "Si vous avez des questions ou souhaitez signaler des erreurs, veuillez nous envoyer un courriel en anglais.",
-  "faq_instruction": "Veuillez consulter la page FAQ si vous avez une question. Si vous signalez une erreur, veuillez inclure les détails du message d'erreur ou du code dans le courriel.",
+  "description": "Si vous avez des questions ou souhaitez signaler un bug, veuillez nous envoyer un e-mail en anglais.",
+  "faq_instruction": "Veuillez consulter la page FAQ si vous avez une question. Si vous signalez un bug, incluez des détails sur le message d'erreur ou le code dans l'e-mail.",
   "faq_link": "FAQ",
-  "email_instruction": "L'adresse e-mail de SaveTT est",
-  "email": "support@tikosave.cc",
+  "email_instruction": "L'adresse e-mail de TikoSave est",
+  "email": "support@tikosave.com",
   "connect_title": "Connectez-vous avec nous"
 }
