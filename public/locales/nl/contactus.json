@@ -1,9 +1,9 @@
 {
   "title": "Contacteer Ons",
-  "description": "Als je vragen hebt of een fout wilt melden, stuur ons dan een e-mail in het Engels.",
-  "faq_instruction": "Controleer de FAQ-pagina als je vragen hebt. Als je een fout meldt, voeg dan details van de foutmelding of code toe in de e-mail.",
+  "description": "Heb je vragen of wil je een bug melden, stuur ons dan een e-mail in het Engels.",
+  "faq_instruction": "Als je een vraag hebt, bekijk dan eerst onze FAQ-pagina. Als je een bug meldt, voeg dan details over de foutmelding of code toe aan je e-mail.",
   "faq_link": "FAQ",
-  "email_instruction": "Het e-mailadres van SaveTT is",
-  "email": "support@tikosave.cc",
-  "connect_title": "Verbind met Ons"
+  "email_instruction": "Het e-mailadres van TikoSave is",
+  "email": "support@tikosave.com",
+  "connect_title": "Maak Contact met Ons"
 }

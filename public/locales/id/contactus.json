@@ -1,9 +1,9 @@
 {
   "title": "Hubungi Kami",
-  "description": "Jika Anda memiliki pertanyaan atau ingin melaporkan kesalahan, silakan kirim email kepada kami dalam bahasa Inggris.",
-  "faq_instruction": "Silakan periksa halaman FAQ jika Anda memiliki pertanyaan. Jika melaporkan kesalahan, sertakan detail pesan kesalahan atau kode dalam email.",
+  "description": "Jika Anda memiliki pertanyaan atau ingin melaporkan bug, silakan kirim email kepada kami dalam bahasa Inggris.",
+  "faq_instruction": "Silakan periksa halaman FAQ jika Anda memiliki pertanyaan. Jika melaporkan bug, sertakan detail tentang pesan error atau kode dalam email.",
   "faq_link": "FAQ",
-  "email_instruction": "Alamat email SaveTT adalah",
-  "email": "support@tikosave.cc",
+  "email_instruction": "Alamat email TikoSave adalah",
+  "email": "support@tikosave.com",
   "connect_title": "Terhubung dengan Kami"
 }

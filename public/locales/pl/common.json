@@ -1,17 +1,43 @@
 {
   "heroSection": {
-    "title": "Pobieracz Wideo TikTok",
-    "description": "Pobieracz TikTok, Pobieraj Wideo TikTok Bez Znaku Wodnego (TikTok MP3 i MP4)",
+    "title": "Pobieracz Wideo TikoSave",
+    "description": "Pobieraj wideo TikTok bez znaku wodnego w jakości HD (MP4 i MP3)",
     "inputPlaceholder": "Wklej tutaj link TikTok",
     "pasteButton": "Wklej",
-    "downloadButton": "Pobierz"
+    "downloadButton": "Pobierz",
+    "loading": "Ładowanie...",
+    "errors": {
+      "emptyUrl": "Wprowadź adres URL wideo TikTok",
+      "pasteFailed": "Nie udało się wkleić adresu URL ze schowka",
+      "fetchFailed": "Nie udało się pobrać metadanych wideo. Sprawdź adres URL i spróbuj ponownie.",
+      "downloadVideoFailed": "Nie udało się pobrać wideo. Wideo może być niedostępne lub rozdzielczość nie jest obsługiwana.",
+      "downloadAudioFailed": "Nie udało się pobrać audio. Spróbuj ponownie.",
+      "invalidUrl": "Nieprawidłowy adres URL TikTok. Upewnij się, że jest to publiczny, prawidłowy link do wideo.",
+      "noVideoFound": "Nie znaleziono wideo do pobrania dla tego adresu URL.",
+      "rateLimit": "Zbyt wiele żądań. Odczekaj kilka sekund i spróbuj ponownie.",
+      "noThumbnailFound": "Brak miniatury dla tego wideo."
+    },
+    "metadata": {
+      "title": "Tytuł",
+      "author": "Twórca",
+      "selectResolution": "Wybierz rozdzielczość",
+      "downloadVideo": "Pobierz wideo",
+      "downloadAudio": "Pobierz audio"
+    },
+    "popup": {
+      "title": "Pobieranie wideo TikTok",
+      "duration": "Czas trwania",
+      "size": "Rozmiar pliku",
+      "close": "Zamknij",
+      "downloadNoWatermark": "Pobierz bez znaku wodnego"
+    }
   },
   "appDownloadSection": {
     "title": "Pobierz Aplikację TikoSave na Androida",
     "description": "Aplikacja do pobierania TikTok jest dostępna, aby ułatwić pobieranie wideo TikTok, jeśli używasz jej często."
   },
   "introductionSection": {
-    "title": "Przedstawiamy TikTokio: Pobieracz TikTok Bez Znaku Wodnego",
+    "title": "Przedstawiamy TikoSave: Pobieracz TikTok Bez Znaku Wodnego",
     "paragraphs": [
       "Narzędzia do pobierania TikTok pojawiają się na rynku coraz częściej. Nie wszystkie są jednak łatwe w użyciu. Niektóre mają wolną prędkość pobierania, a inne wymagają płatności. Dlatego nasz zespół stworzył TikoSave. To zupełnie nowy pobieracz TikTok, który pozwala użytkownikom pobierać wideo TikTok w jakości HD za darmo.",
       "TikoSave to w 100% darmowy pobieracz wideo TikTok online. Jego celem jest pomoc w pobieraniu wideo TikTok (musical.ly) bez znaku wodnego. Proces trwa mniej niż 5 sekund. Nasze narzędzie TikoSave znajdziesz na różnych urządzeniach, takich jak komputery stacjonarne, tablety, komputery PC i telefony komórkowe. Każdy może zapisać wideo TikTok w formacie MP4 i udostępnić je rodzinie lub znajomym.",
@@ -33,8 +59,8 @@
         "image": "/paste.webp"
       },
       {
-        "title": "Wybierz Format i Pobierz",
-        "description": "Wybierz żądany format i kliknij preferowaną opcję. Dostępne opcje to m.in. 'Pobierz Bez Znaku Wodnego', 'Pobierz Z Znakiem Wodnym', 'Pobierz MP3' itp.",
+        "title": "Wybierz Format i Rozdzielczość, a Następnie Pobierz",
+        "description": "Wybierz żądany format i rozdzielczość (240p, 360p, 480p, 720p, 1080p lub MP3) oraz określ, czy chcesz wideo z znakiem wodnym, czy bez, i kliknij preferowaną opcję.",
         "image": "/download.webp"
       }
     ]
@@ -53,8 +79,8 @@
     "steps": [
       "Znajdź wideo TikTok, które chcesz pobrać bez znaku wodnego i odtwórz je",
       "Kliknij przycisk 'Udostępnij' po prawej stronie i skopiuj link do wideo",
-      "Otwórz przeglądarkę na telefonie z Androidem i odwiedź tiktokio.com. Wklej link do pobierania wideo w polu tekstowym",
-      "Naciśnij niebieski przycisk 'Pobierz', a pojawią się różne opcje. Wybierz tę, którą chcesz"
+      "Otwórz przeglądarkę na telefonie z Androidem i odwiedź tikosave.com. Wklej link do pobierania wideo w polu tekstowym",
+      "Naciśnij niebieski przycisk 'Pobierz', a pojawią się różne opcje. Wybierz żądaną rozdzielczość lub opcję MP3"
     ]
   },
   "downloadOnPCSection": {
@@ -70,9 +96,9 @@
     ],
     "steps": [
       "Zdobądź link do swojego ulubionego wideo TikTok",
-      "Odwiedź TikoSave.com za pomocą aplikacji Safari na swoim iPhonie lub iPadzie",
+      "Odwiedź tikosave.com za pomocą aplikacji Safari na swoim iPhonie lub iPadzie",
       "Wklej link do wideo w polu i kliknij przycisk 'Pobierz'",
-      "Pobieranie rozpocznie się po wybraniu formatu (MP4/MP3)."
+      "Pobieranie rozpocznie się po wybraniu formatu (MP4/MP3) i rozdzielczości (240p, 360p, 480p, 720p, 1080p)."
     ]
   },
   "downloadMP3Section": {
@@ -82,23 +108,23 @@
       "Poniższe kroki poprowadzą Cię przez proces pobierania MP3, piosenek, muzyki i plików audio TikTok za pomocą TikoSave w kilka sekund."
     ],
     "steps": [
-      "Otwórz aplikację/stronę TT na swoim urządzeniu i odtwórz wideo z dźwiękiem/muzyką, którą chcesz zapisać.",
+      "Otwórz aplikację/stronę TikTok na swoim urządzeniu i odtwórz wideo z dźwiękiem/muzyką, którą chcesz zapisać.",
       "Dotknij przycisku 'Udostępnij' po prawej stronie strony wideo",
       "Wybierz 'Kopiuj link', gdy pojawi się menu. Następnie adres URL wideo zostanie skopiowany do schowka",
-      "Odwiedź stronę TikoSave (nasz pobieracz TikTok) i wklej skopiowany link do wideo w polu wprowadzania",
-      "Kliknij przycisk 'Pobierz', a zobaczysz różne opcje. Opcja 'Pobierz MP3' znajduje się zwykle na dole.",
-      "Naciśnij przycisk 'Pobierz MP3', a konwersja zakończy się w 5 sekund. Pobrana muzyka lub piosenka TikTok pojawi się w domyślnym folderze pobierania."
+      "Odwiedź stronę TikoSave (tikosave.com) i wklej skopiowany link do wideo w polu wprowadzania",
+      "Kliknij przycisk 'Pobierz', a zobaczysz różne opcje. Wybierz 'Pobierz MP3'.",
+      "Konwersja na MP3 zakończy się w kilka sekund, a audio zostanie zapisane na Twoim urządzeniu."
     ]
   },
   "prosAndConsSection": {
-    "title": "Zalety i Wady SaveTiko",
+    "title": "Zalety i Wady TikoSave",
     "pros": {
       "title": "Zalety",
       "items": [
         "Zapisuj wideo TikTok bez logo lub znaku wodnego dla czystego wyglądu.",
         "Brak ukrytych opłat, subskrypcji ani rejestracji.",
         "Kopiuj, wklej i pobieraj w kilka sekund – bez skomplikowanych kroków.",
-        "Wspiera pobieranie wideo w jakości HD i oryginalnej rozdzielczości.",
+        "Wspiera pobieranie wideo w jakości HD i oryginalnych rozdzielczościach (240p, 360p, 480p, 720p, 1080p).",
         "Używaj na komputerach PC, Mac, Androidzie i iPhone'ach z dowolną przeglądarką.",
         "Narzędzie w 100% online, nie wymaga pobierania dodatkowego oprogramowania.",
         "Zapisuj nieograniczoną liczbę wideo TikTok.",
@@ -210,7 +236,9 @@
     "tips": [
       {
         "title": "Szanuj Prawa Autorskie",
-        "description": "Wideo TikTok są chronione prawami autorskimi twórców. Dlatego uzyskaj pozwolenie, zanim zapiszesz wideo TikTok bez znaku wodnego. Nie używaj pobranych wideo lub muzyki do celów komercyjnych bez zgody.",
+        "description": "Wideo TikTok są chronione prawami autorskimi twórców. Dlatego uzyskaj pozwolenie, zanim zapiszesz wideo TikTok bez znaku wodnego. Nie używaj pobranych wideo lub muzyki do celów komercyjnych bez zgody."
+      },
+      {
         "title": "Używaj do Rozwoju Osobistego lub Celów Edukacyjnych",
         "description": "TikoSave i inne pobieracze wideo TikTok są przydatne do rozwoju osobistego lub edukacji. Możesz pobierać treści informacyjne do odtwarzania offline lub jako odniesienie."
       },
@@ -242,7 +270,7 @@
       "Jak usunąć znak wodny lub logo TikTok z wideo?"
     ],
     "answers": [
-      "TikoSave to darmowy pobieracz TikTok online. Pomaga użytkownikom zapisywać wideo TikTok bez znaku wodnego lub konwertować wideo TikTok na pliki MP3 za pomocą kilku kliknięć. Łatwość obsługi i wysokiej jakości pobieranie czynią go popularnym narzędziem wśród fanów TT.",
+      "TikoSave to darmowy pobieracz TikTok online. Pomaga użytkownikom zapisywać wideo TikTok bez znaku wodnego lub konwertować wideo TikTok na pliki MP3 za pomocą kilku kliknięć. Łatwość obsługi i wysokiej jakości pobieranie czynią go popularnym narzędziem wśród fanów TikTok.",
       "Tak, TikoSave to w 100% bezpieczny pobieracz wideo TikTok. Posiadamy aktywny certyfikat SSL, aby zagwarantować prywatność użytkowników.",
       "Pobieranie wideo TikTok bez znaku wodnego jest łatwe z TikoSave. Po prostu skopiuj link do wideo TikTok, wklej go w polu wprowadzania na naszej stronie i kliknij przycisk pobierania. Twoje wideo zostanie przetworzone i zapisane bez logo TikTok. Nie są potrzebne dodatkowe aplikacje ani rejestracja!",
       "Nie, TikoSave to w 100% narzędzie online, więc nie musisz instalować żadnego oprogramowania ani aplikacji. Możesz uzyskać do niego dostęp bezpośrednio z przeglądarki internetowej na telefonie, tablecie lub komputerze. Odwiedź stronę, wklej link do wideo TikTok i pobieraj wideo w kilka sekund.",
@@ -263,13 +291,14 @@
   "general": {
     "saveTiktokVideo": "Zapisz Wideo TikTok",
     "tiktokMp3": "Pobieracz MP3 TikTok",
-    "appName": "Moja Aplikacja",
+    "appName": "TikoSave",
     "home": "Strona Główna",
     "contactUs": "Skontaktuj Się z Nami",
     "termsOfUse": "Warunki Użytkowania",
     "privacyPolicy": "Polityka Prywatności",
-    "footerText": "© 2025 Moja Aplikacja. Wszystkie prawa zastrzeżone.",
-    "welcome": "Witamy w Mojej Aplikacji",
-    "homeDescription": "To jest strona główna naszej aplikacji."
+    "footerText": "© 2025 TikoSave. Wszystkie prawa zastrzeżone.",
+    "welcome": "Witamy w TikoSave",
+    "homeDescription": "To jest strona główna naszego pobieracza wideo TikTok.",
+    "note": "Uwaga:"
   }
 }

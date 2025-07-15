@@ -1,17 +1,43 @@
 {
   "heroSection": {
-    "title": "TikTok Video Downloader",
-    "description": "TikTok Downloader, Download TikTok Video's Zonder Watermerk (TikTok MP3 & MP4)",
+    "title": "TikoSave Video Downloader",
+    "description": "Download TikTok video's zonder watermerk in HD-kwaliteit (MP4 en MP3)",
     "inputPlaceholder": "Plak hier de TikTok-link",
     "pasteButton": "Plakken",
-    "downloadButton": "Downloaden"
+    "downloadButton": "Downloaden",
+    "loading": "Laden...",
+    "errors": {
+      "emptyUrl": "Voer een TikTok video-URL in",
+      "pasteFailed": "Het plakken van de URL vanaf het klembord is mislukt",
+      "fetchFailed": "Het ophalen van video-metadata is mislukt. Controleer de URL en probeer opnieuw.",
+      "downloadVideoFailed": "Het downloaden van de video is mislukt. De video is mogelijk niet beschikbaar of de resolutie wordt niet ondersteund.",
+      "downloadAudioFailed": "Het downloaden van de audio is mislukt. Probeer het opnieuw.",
+      "invalidUrl": "Ongeldige TikTok URL. Zorg ervoor dat het een openbare, geldige videolink is.",
+      "noVideoFound": "Geen downloadbare video gevonden voor deze URL.",
+      "rateLimit": "Te veel verzoeken. Wacht een paar seconden en probeer opnieuw.",
+      "noThumbnailFound": "Geen thumbnail beschikbaar voor deze video."
+    },
+    "metadata": {
+      "title": "Titel",
+      "author": "Maker",
+      "selectResolution": "Selecteer resolutie",
+      "downloadVideo": "Video downloaden",
+      "downloadAudio": "Audio downloaden"
+    },
+    "popup": {
+      "title": "TikTok video downloaden",
+      "duration": "Duur",
+      "size": "Bestandsgrootte",
+      "close": "Sluiten",
+      "downloadNoWatermark": "Downloaden zonder watermerk"
+    }
   },
   "appDownloadSection": {
     "title": "Download de TikoSave App voor Android",
     "description": "De TikTok download app is beschikbaar om TikTok video's gemakkelijker te downloaden als je deze vaak gebruikt."
   },
   "introductionSection": {
-    "title": "Introductie van TikTokio: TikTok Downloader Zonder Watermerk",
+    "title": "Introductie van TikoSave: TikTok Downloader Zonder Watermerk",
     "paragraphs": [
       "TikTok downloadtools verschijnen voortdurend op de markt. Niet alle zijn echter gebruiksvriendelijk. Sommige hebben een trage downloadsnelheid, terwijl andere betaling vereisen. Daarom heeft ons team TikoSave ontwikkeld. Dit is een gloednieuwe TikTok downloader waarmee gebruikers TikTok video's in HD-kwaliteit kunnen downloaden zonder betaling.",
       "TikoSave is een 100% gratis online TikTok video downloader. Het doel is om mensen te helpen TikTok video's (muzikaal) zonder watermerk te downloaden. Het proces duurt minder dan 5 seconden. Je kunt onze TikTok saver vinden op allerlei apparaten, zoals desktops, tablets, pc's en mobiele telefoons. Iedereen kan TikTok video's opslaan in MP4-formaat en deze vervolgens delen met familie of vrienden.",
@@ -33,8 +59,8 @@
         "image": "/paste.webp"
       },
       {
-        "title": "Kies Formaat en Download",
-        "description": "Kies het gewenste formaat en klik op de gewenste optie. Er zijn verschillende opties beschikbaar: 'Downloaden Zonder Watermerk', 'Downloaden Met Watermerk', 'MP3 Downloaden', enz.",
+        "title": "Kies Formaat en Resolutie en Download",
+        "description": "Kies het gewenste formaat en resolutie (240p, 360p, 480p, 720p, 1080p of MP3) en geef aan of je een watermerk wilt of niet, en klik op de gewenste optie.",
         "image": "/download.webp"
       }
     ]
@@ -49,12 +75,12 @@
   },
   "downloadOnAndroidSection": {
     "title": "Hoe TikTok Video's Zonder Watermerk te Downloaden op Mobiel (Android)",
-    "description": "Het downloaden van TikTok video's (MP4/MP3) op een Android-telefoon met TikoSave is vrij eenvoudig. Als je het watermerk of TikTok-logo uit de video wilt verwijderen en opslaan op Android, volg dan de onderstaande instructies:",
+    "description": "Het downloaden van TikTok video's (MP4/MP3) op een Android-telefoon met TikoSave is zeer eenvoudig. Als je het watermerk of TikTok-logo uit de video wilt verwijderen en opslaan op Android, volg dan de onderstaande instructies:",
     "steps": [
       "Vind de TikTok video die je zonder watermerk wilt downloaden en speel deze af",
       "Klik op de 'Delen' knop aan de rechterkant en kopieer de videolink",
-      "Open de browser op je Android-telefoon en bezoek tiktokio.com. Plak de videodownloadlink in het tekstvak",
-      "Druk op de blauwe 'Downloaden' knop en er verschijnen verschillende opties. Kies degene die je wilt"
+      "Open de browser op je Android-telefoon en bezoek tikosave.com. Plak de videodownloadlink in het tekstvak",
+      "Druk op de blauwe 'Downloaden' knop en er verschijnen verschillende opties. Kies de gewenste resolutie of MP3-optie"
     ]
   },
   "downloadOnPCSection": {
@@ -70,9 +96,9 @@
     ],
     "steps": [
       "Verkrijg de link van je favoriete TikTok video",
-      "Bezoek TikoSave.com met de Safari-app op je iPhone of iPad",
+      "Bezoek tikosave.com met de Safari-app op je iPhone of iPad",
       "Plak de videolink in het vak en klik op de 'Downloaden' knop",
-      "Het downloaden begint na het kiezen van het formaat (MP4/MP3)."
+      "Kies het formaat (MP4/MP3) en resolutie (240p, 360p, 480p, 720p, 1080p) en het downloaden begint."
     ]
   },
   "downloadMP3Section": {
@@ -82,23 +108,23 @@
       "De volgende stappen leiden je door het proces om MP3, liedjes, muziek en audiobestanden van TikTok te downloaden met TikoSave in enkele seconden."
     ],
     "steps": [
-      "Open de TT app/website op je apparaat en speel de video af met de audio/muziek die je wilt opslaan.",
+      "Open de TikTok app/website op je apparaat en speel de video af met de audio/muziek die je wilt opslaan.",
       "Tik op de 'Delen' knop aan de rechterkant van de videopagina",
       "Selecteer 'Link kopiëren' wanneer het menu verschijnt. Daarna wordt de URL van de video naar je klembord gekopieerd",
-      "Bezoek de TikoSave website (onze TikTok downloader) en plak de gekopieerde videolink in het invoerveld",
-      "Klik op de 'Downloaden' knop en je ziet verschillende opties. De 'MP3 downloaden' optie bevindt zich meestal onderaan.",
-      "Druk op de 'MP3 downloaden' knop en de conversie is binnen 5 seconden voltooid. Je ziet de gedownloade TikTok muziek of liedje in je standaard downloadmap."
+      "Bezoek de TikoSave website (tikosave.com) en plak de gekopieerde videolink in het invoerveld",
+      "Klik op de 'Downloaden' knop en je ziet verschillende opties. Kies 'MP3 downloaden'.",
+      "De conversie naar MP3 is binnen enkele seconden voltooid en de audio wordt opgeslagen op je apparaat."
     ]
   },
   "prosAndConsSection": {
-    "title": "Voor- en Nadelen van SaveTiko",
+    "title": "Voor- en Nadelen van TikoSave",
     "pros": {
       "title": "Voordelen",
       "items": [
         "Sla TikTok video's op zonder logo of watermerk voor een schone uitstraling.",
         "Geen verborgen kosten, abonnementen of registratie vereist.",
         "Kopieer, plak en download in seconden – geen ingewikkelde stappen.",
-        "Ondersteunt het downloaden van video's in HD-kwaliteit en originele resolutie.",
+        "Ondersteunt het downloaden van video's in HD-kwaliteit en originele resoluties (240p, 360p, 480p, 720p, 1080p).",
         "Gebruik op PC, Mac, Android en iPhone met elke browser.",
         "100% online tool, geen extra software download nodig.",
         "Sla onbeperkt TikTok video's op.",
@@ -244,7 +270,7 @@
       "Hoe verwijder ik het watermerk of logo van TikTok uit video's?"
     ],
     "answers": [
-      "TikoSave is een gratis online TikTok downloader. Het helpt mensen om TikTok video's zonder watermerk op te slaan of TikTok video's met een paar klikken om te zetten naar MP3-bestanden. De gebruiksvriendelijkheid en hoogwaardige downloads maken het een populaire TikTok saver onder TT-fans.",
+      "TikoSave is een gratis online TikTok downloader. Het helpt mensen om TikTok video's zonder watermerk op te slaan of TikTok video's met een paar klikken om te zetten naar MP3-bestanden. De gebruiksvriendelijkheid en hoogwaardige downloads maken het een populaire TikTok saver onder TikTok-fans.",
       "Ja, TikoSave is een 100% veilige TikTok video downloader. We hebben een actief SSL-certificaat om de privacy van gebruikers te garanderen.",
       "Het downloaden van TikTok video's zonder watermerk is eenvoudig met TikoSave. Kopieer simpelweg de TikTok videolink, plak deze in het invoerveld op onze website en klik op de downloadknop. Je video wordt verwerkt en opgeslagen zonder TikTok-logo. Geen extra apps of registratie nodig!",
       "Nee, TikoSave is een 100% online tool, dus je hoeft geen software of app te installeren. Je kunt het rechtstreeks vanuit een webbrowser op je telefoon, tablet of computer gebruiken. Bezoek de website, plak de TikTok videolink en download video's in seconden.",
@@ -259,19 +285,20 @@
       "Om TikTok video's te downloaden op Android, open je de TikTok app en kopieer je de link van de video die je wilt opslaan. Bezoek TikoSave in je browser, plak de link in het invoerveld en tik op de downloadknop. De video wordt zonder watermerk opgeslagen in je galerij of downloadmap.",
       "Ja, TikoSave biedt downloads van TikTok video's in HD-kwaliteit. De tool stelt je in staat om de hoogst beschikbare resolutie van de video te downloaden. Dit zorgt ervoor dat opgeslagen video's helder, scherp en perfect zijn voor offline bekijken.",
       "Nee, je hebt geen TikTok-account nodig om video's te downloaden met TikoSave. Onze tool werkt zonder login – kopieer simpelweg de videolink en plak deze op de website om het downloaden te starten. Het is snel, eenvoudig en volledig probleemloos.",
-      "TikoSave verwijdert automatisch het TikTok-watermerk wanneer je een video downloadt. Kopieer simpelweg de TikTok videolink, plak deze op onze website en download een schone versie van de video zonder logo of branding."
+      "TikoSave verwijdert automatisch het TikTok-watermerk wanneer je een video downloadt. Kopieer simpelweg de TikTok videolink, plak deze op onze website en download een schone versie van de video zonder logo of branding"
     ]
   },
   "general": {
     "saveTiktokVideo": "TikTok Video Opslaan",
     "tiktokMp3": "TikTok MP3 Downloader",
-    "appName": "Mijn App",
+    "appName": "TikoSave",
     "home": "Home",
     "contactUs": "Contacteer Ons",
     "termsOfUse": "Gebruiksvoorwaarden",
     "privacyPolicy": "Privacybeleid",
-    "footerText": "© 2025 Mijn App. Alle rechten voorbehouden.",
-    "welcome": "Welkom bij Mijn App",
-    "homeDescription": "Dit is de homepage van onze app."
+    "footerText": "© 2025 TikoSave. Alle rechten voorbehouden.",
+    "welcome": "Welkom bij TikoSave",
+    "homeDescription": "Dit is de homepage van onze TikTok video downloader.",
+    "note": "Opmerking:"
   }
 }

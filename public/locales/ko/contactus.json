@@ -1,9 +1,9 @@
 {
   "title": "문의하기",
-  "description": "질문이 있거나 오류를 보고하려면 영어로 이메일을 보내주세요.",
-  "faq_instruction": "질문이 있는 경우 FAQ 페이지를 확인해주세요. 오류를 보고하는 경우 이메일에 오류 메시지 또는 코드의 세부 정보를 포함해주세요.",
+  "description": "질문이 있거나 버그를 보고하려면 영어로 이메일을 보내주세요.",
+  "faq_instruction": "질문이 있는 경우 FAQ 페이지를 먼저 확인하세요. 버그를 보고하는 경우, 이메일에 에러 메시지나 코드에 대한 세부 정보를 포함해 주세요.",
   "faq_link": "FAQ",
-  "email_instruction": "SaveTT의 이메일 주소는",
-  "email": "support@tikosave.cc",
+  "email_instruction": "TikoSave의 이메일 주소는",
+  "email": "support@tikosave.com",
   "connect_title": "우리와 연결하기"
 }

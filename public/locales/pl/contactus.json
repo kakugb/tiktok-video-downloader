@@ -1,9 +1,9 @@
 {
   "title": "Skontaktuj Się z Nami",
-  "description": "Jeśli masz pytania lub chcesz zgłosić błąd, wyślij nam e-mail w języku angielskim.",
-  "faq_instruction": "Jeśli masz pytania, sprawdź stronę FAQ. Zgłaszając błąd, dołącz szczegóły wiadomości o błędzie lub kodu w e-mailu.",
+  "description": "Masz pytania lub chcesz zgłosić błąd? Wyślij nam e-mail w języku angielskim.",
+  "faq_instruction": "Jeśli masz pytanie, najpierw sprawdź naszą stronę z najczęściej zadawanymi pytaniami. Jeśli zgłaszasz błąd, dołącz szczegóły dotyczące komunikatu o błędzie lub kodu w swoim e-mailu.",
   "faq_link": "FAQ",
-  "email_instruction": "Adres e-mail SaveTT to",
-  "email": "support@tikosave.cc",
-  "connect_title": "Połącz się z Nami"
+  "email_instruction": "Adres e-mail TikoSave to",
+  "email": "support@tikosave.com",
+  "connect_title": "Nawiąż Kontakt z Nami"
 }
