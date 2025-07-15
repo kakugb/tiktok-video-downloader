@@ -1,9 +1,9 @@
 {
   "title": "Bize Ulaşın",
-  "description": "Sorularınız varsa veya bir hata bildirmek istiyorsanız, bize İngilizce bir e-posta gönderin.",
-  "faq_instruction": "Sorularınız varsa SSS sayfasını kontrol edin. Hata bildiriyorsanız, e-postaya hata mesajı veya kod ayrıntılarını ekleyin.",
+  "description": "Sorularınız mı var veya bir hata mı bildirmek istiyorsunuz? Bize İngilizce bir e-posta gönderin.",
+  "faq_instruction": "Bir sorunuz varsa, önce sıkça sorulan sorular sayfamızı kontrol edin. Bir hata bildiriyorsanız, e-postanıza hata mesajı veya kodla ilgili ayrıntıları ekleyin.",
   "faq_link": "SSS",
-  "email_instruction": "SaveTT'nin e-posta adresi",
-  "email": "support@tikosave.cc",
-  "connect_title": "Bizimle Bağlantı Kurun"
+  "email_instruction": "TikoSave'in e-posta adresi:",
+  "email": "support@tikosave.com",
+  "connect_title": "Bizimle İletişime Geçin"
 }
