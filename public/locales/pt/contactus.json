@@ -1,9 +1,9 @@
 {
   "title": "Contacte-nos",
-  "description": "Se tiver alguma dúvida ou quiser reportar um erro, envie-nos um e-mail em inglês.",
-  "faq_instruction": "Se tiver dúvidas, consulte a página de FAQ. Ao reportar um erro, inclua detalhes da mensagem de erro ou código no e-mail.",
+  "description": "Tem perguntas ou quer reportar um erro? Envie-nos um e-mail em inglês.",
+  "faq_instruction": "Se tiver uma pergunta, verifique primeiro a nossa página de perguntas frequentes. Se estiver a reportar um erro, inclua detalhes sobre a mensagem de erro ou código no seu e-mail.",
   "faq_link": "FAQ",
-  "email_instruction": "O endereço de e-mail do SaveTT é",
-  "email": "support@tikosave.cc",
-  "connect_title": "Conecte-se Connosco"
+  "email_instruction": "O endereço de e-mail do TikoSave é",
+  "email": "support@tikosave.com",
+  "connect_title": "Entre em Contacto Connosco"
 }
